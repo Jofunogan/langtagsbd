@@ -1,0 +1,15 @@
+{
+  "title": "Conteúdo alternativo sem JavaScript",
+  "description": "O elemento <noscript> fornece conteúdo alternativo quando scripts não são executados.",
+  "tags": [
+    "noscript",
+    "conteúdo alternativo sem javascript",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <noscript> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<noscript>Exemplo de conteúdo.</noscript>"
+}

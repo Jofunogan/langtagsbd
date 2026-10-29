@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo href",
+  "description": "Valores e formatos permitidos para o atributo HTML href.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "href",
+      "kind": "URL",
+      "description": "Recebe uma URL válida; use uma URL absoluta ou um caminho relativo conforme o contexto.",
+      "examples": [
+        "https://exemplo.com/recurso",
+        "./arquivo.html"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div href=\"valor\">Conteúdo</div>"
+}

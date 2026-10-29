@@ -1,0 +1,23 @@
+{
+  "title": "Fonte alternativa de mídia",
+  "description": "O elemento <source> fornece uma fonte alternativa para picture, audio ou video.",
+  "tags": [
+    "source",
+    "fonte alternativa de mídia",
+    "elemento html"
+  ],
+  "attributes": [
+    "type",
+    "src",
+    "srcset",
+    "sizes",
+    "media",
+    "width",
+    "height"
+  ],
+  "configurations": [
+    "Use <source> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<picture><source srcset=\"imagem.webp\" type=\"image/webp\"><img src=\"imagem.jpg\" alt=\"Imagem\"></picture>"
+}

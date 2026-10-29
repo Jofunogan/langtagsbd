@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo class",
+  "description": "Valores e formatos permitidos para o atributo HTML class.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "class",
+      "kind": "texto ou tokens",
+      "description": "Recebe texto, identificador, token ou valor conforme o contexto do elemento.",
+      "examples": [
+        "exemplo",
+        "valor-personalizado"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div class=\"valor\">Conteúdo</div>"
+}

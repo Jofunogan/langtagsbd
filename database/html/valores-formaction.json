@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo formaction",
+  "description": "Valores permitidos para formaction conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "formaction",
+      "kind": "URL",
+      "description": "Recebe uma URL válida; pode ser absoluta ou relativa conforme o elemento.",
+      "examples": [
+        "https://exemplo.com/recurso",
+        "./arquivo.html"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div formaction=\"valor\">Conteúdo</div>"
+}

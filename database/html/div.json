@@ -1,0 +1,8 @@
+{
+  "title": "Divisão de conteúdo",
+  "description": "A tag <div> agrupa elementos sem atribuir um significado semântico específico.",
+  "tags": ["div", "divisao", "agrupamento", "container"],
+  "attributes": ["class", "id", "role", "aria-label"],
+  "configurations": ["Use class para estilização", "Prefira elementos semânticos quando forem adequados"],
+  "code": "<div class=\"container\">\n  <p>Conteúdo agrupado</p>\n</div>"
+}

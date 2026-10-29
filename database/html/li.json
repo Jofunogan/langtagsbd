@@ -1,0 +1,8 @@
+{
+  "title": "Item de lista",
+  "description": "A tag <li> representa um item de uma lista ordenada ou não ordenada.",
+  "tags": ["li", "item", "lista", "menu"],
+  "attributes": ["value", "class", "role"],
+  "configurations": ["Coloque li dentro de ul ou ol", "value define a numeração em listas ordenadas"],
+  "code": "<ul>\n  <li>HTML</li>\n  <li>CSS</li>\n</ul>"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Sugestões para campo",
+  "description": "O elemento <datalist> fornece sugestões para um campo de formulário.",
+  "tags": [
+    "datalist",
+    "sugestões para campo",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <datalist> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<datalist>Exemplo de conteúdo.</datalist>"
+}

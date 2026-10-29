@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo title",
+  "description": "Valores e formatos permitidos para o atributo HTML title.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "title",
+      "kind": "texto ou tokens",
+      "description": "Recebe texto, identificador, token ou valor conforme o contexto do elemento.",
+      "examples": [
+        "exemplo",
+        "valor-personalizado"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div title=\"valor\">Conteúdo</div>"
+}

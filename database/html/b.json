@@ -1,0 +1,15 @@
+{
+  "title": "Destaque textual",
+  "description": "O elemento <b> destaca um trecho por atenção visual sem indicar importância adicional.",
+  "tags": [
+    "b",
+    "destaque textual",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <b> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<b>Exemplo de conteúdo.</b>"
+}

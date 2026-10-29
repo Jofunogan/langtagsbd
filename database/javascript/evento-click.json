@@ -1,0 +1,6 @@
+{
+  "title": "Evento de clique",
+  "description": "Adicione uma função para responder quando a pessoa clicar em um elemento.",
+  "tags": ["evento", "click", "botao", "interacao"],
+  "code": "botao.addEventListener('click', () => {\n  console.log('Clicado!');\n});"
+}

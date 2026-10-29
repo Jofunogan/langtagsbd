@@ -1,0 +1,18 @@
+{
+  "title": "Progresso de tarefa",
+  "description": "O elemento <progress> indica o andamento de uma tarefa.",
+  "tags": [
+    "progress",
+    "progresso de tarefa",
+    "elemento html"
+  ],
+  "attributes": [
+    "value",
+    "max"
+  ],
+  "configurations": [
+    "Use <progress> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<progress value=\"60\" max=\"100\">60%</progress>"
+}

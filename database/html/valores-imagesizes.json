@@ -1,0 +1,18 @@
+{
+  "title": "Valores do atributo imagesizes",
+  "description": "Valores permitidos para imagesizes conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "imagesizes",
+      "kind": "lista de tamanhos",
+      "description": "Tamanhos responsivos da imagem pré-carregada.",
+      "examples": [
+        "(max-width: 600px) 100vw, 600px"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div imagesizes=\"valor\">Conteúdo</div>"
+}

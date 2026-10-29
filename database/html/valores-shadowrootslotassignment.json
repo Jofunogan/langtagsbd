@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo shadowrootslotassignment",
+  "description": "Valores permitidos para shadowrootslotassignment conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "shadowrootslotassignment",
+      "kind": "enumeração",
+      "description": "Modo de atribuição de slots da raiz shadow declarativa.",
+      "options": [
+        "named",
+        "manual"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div shadowrootslotassignment=\"valor\">Conteúdo</div>"
+}

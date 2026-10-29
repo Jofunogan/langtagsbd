@@ -1,0 +1,15 @@
+{
+  "title": "Legenda de grupo de campos",
+  "description": "O elemento <legend> dá um título ao grupo de controles fieldset.",
+  "tags": [
+    "legend",
+    "legenda de grupo de campos",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <legend> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<legend>Exemplo de conteúdo.</legend>"
+}

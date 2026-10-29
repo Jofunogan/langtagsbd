@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f4f7fb" />
+    <title>Lang Tags BD</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="search-panel" aria-label="Pesquisa na biblioteca">
+        <form id="search-form" role="search">
+          <label class="sr-only" for="query">O que você está procurando?</label>
+          <div class="search-field">
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="query" name="query" type="text" placeholder="Ex.: parágrafo, botão, flexbox..." autocomplete="off" />
+          </div>
+          <label class="sr-only" id="language-label" for="language-trigger">Linguagem</label>
+          <div class="language-picker">
+            <button id="language-trigger" class="language-trigger" type="button" aria-labelledby="language-label language-value" aria-haspopup="listbox" aria-expanded="false">
+              <span id="language-value">LANG</span><span class="picker-chevron" aria-hidden="true"></span>
+            </button>
+            <ul id="language-options" class="language-options" role="listbox" aria-labelledby="language-label" hidden>
+              <li role="presentation"><button type="button" class="language-option" role="option" data-value="all" aria-selected="true">Todas as linguagens</button></li>
+            </ul>
+          </div>
+        </form>
+      </section>
+
+      <section id="tag-suggestions" class="tag-suggestions" aria-label="Tags da biblioteca">
+        <p class="suggestions-label">Tags recentes</p>
+        <div id="tag-suggestion-list" class="tag-suggestion-list"></div>
+      </section>
+
+      <section id="favorites-section" class="favorites-section" aria-live="polite" hidden>
+        <div class="results-heading">
+          <div>
+            <h2>Favoritos</h2>
+          </div>
+          <span id="favorite-count" class="result-count"></span>
+        </div>
+        <div id="favorites-results" class="results-grid"></div>
+      </section>
+
+      <section class="results-section" aria-live="polite" aria-busy="false" hidden>
+        <div class="results-heading">
+          <div>
+            <p class="eyebrow">Biblioteca local</p>
+            <h2 id="results-title">Conteúdos disponíveis</h2>
+          </div>
+          <span id="result-count" class="result-count"></span>
+        </div>
+        <div id="search-filters" class="search-filters" hidden>
+          <span id="scope-label">Pesquisar em</span>
+          <div id="scope-picker" class="language-picker scope-picker">
+            <button id="scope-trigger" class="language-trigger scope-trigger" type="button" aria-labelledby="scope-label scope-value" aria-haspopup="listbox" aria-expanded="false">
+              <span id="scope-value">TAGS</span><span class="picker-chevron" aria-hidden="true"></span>
+            </button>
+            <ul id="scope-options" class="language-options scope-options" role="listbox" aria-labelledby="scope-label" hidden>
+              <li role="presentation"><button type="button" class="language-option scope-option" role="option" data-value="tags" aria-selected="true">TAGS</button></li>
+              <li role="presentation"><button type="button" class="language-option scope-option" role="option" data-value="attributes" aria-selected="false">ATRIBUTOS</button></li>
+              <li role="presentation"><button type="button" class="language-option scope-option" role="option" data-value="values" aria-selected="false">VALORES</button></li>
+            </ul>
+          </div>
+        </div>
+        <div id="results" class="results-grid"></div>
+      </section>
+    </main>
+  </body>
+</html>

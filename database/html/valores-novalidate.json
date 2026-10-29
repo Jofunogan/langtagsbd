@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo novalidate",
+  "description": "Valores e formatos permitidos para o atributo HTML novalidate.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "novalidate",
+      "kind": "booleano",
+      "description": "A presença do atributo significa verdadeiro; sua ausência significa falso. Não se escreve true ou false como valor HTML.",
+      "options": [
+        "presente = verdadeiro",
+        "ausente = falso"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div novalidate=\"valor\">Conteúdo</div>"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Valores do atributo aria-labelledby",
+  "description": "Valores e formatos permitidos para o atributo HTML aria-labelledby.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "aria-labelledby",
+      "kind": "valor ARIA",
+      "description": "O valor depende do estado ou propriedade ARIA; pode ser texto, referência a id, número ou estado enumerado.",
+      "examples": [
+        "titulo secao-ajuda"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div aria-labelledby=\"valor\">Conteúdo</div>"
+}

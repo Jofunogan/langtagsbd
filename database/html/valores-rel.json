@@ -1,0 +1,55 @@
+{
+  "title": "Valores do atributo rel",
+  "description": "Valores e formatos permitidos para o atributo HTML rel.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "rel",
+      "context": "a e area",
+      "kind": "lista de tokens",
+      "description": "Relações do link; pode combinar tokens separados por espaço. O registro de tipos é extensível.",
+      "options": [
+        "alternate",
+        "author",
+        "bookmark",
+        "external",
+        "help",
+        "license",
+        "next",
+        "nofollow",
+        "noopener",
+        "noreferrer",
+        "opener",
+        "prev",
+        "search",
+        "tag"
+      ]
+    },
+    {
+      "attribute": "rel",
+      "context": "link",
+      "kind": "lista de tokens",
+      "description": "Relações do recurso vinculado; pode combinar tokens separados por espaço. O registro é extensível.",
+      "options": [
+        "stylesheet",
+        "icon",
+        "preload",
+        "modulepreload",
+        "prefetch",
+        "preconnect",
+        "dns-prefetch",
+        "canonical",
+        "manifest",
+        "alternate",
+        "author",
+        "help",
+        "license",
+        "next",
+        "prev"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<a href=\"guia.html\" rel=\"next\">Próxima página</a>"
+}

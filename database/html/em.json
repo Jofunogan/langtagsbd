@@ -1,0 +1,15 @@
+{
+  "title": "Ênfase textual",
+  "description": "O elemento <em> marca ênfase que altera a entonação de uma frase.",
+  "tags": [
+    "em",
+    "ênfase textual",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <em> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<em>Exemplo de conteúdo.</em>"
+}

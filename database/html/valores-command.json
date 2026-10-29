@@ -1,0 +1,23 @@
+{
+  "title": "Valores do atributo command",
+  "description": "Valores permitidos para command conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "command",
+      "kind": "enumeração",
+      "description": "Comandos HTML; também aceita palavra-chave personalizada.",
+      "options": [
+        "toggle-popover",
+        "show-popover",
+        "hide-popover",
+        "close",
+        "request-close",
+        "show-modal"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div command=\"valor\">Conteúdo</div>"
+}

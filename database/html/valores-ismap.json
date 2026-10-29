@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo ismap",
+  "description": "Valores e formatos permitidos para o atributo HTML ismap.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "ismap",
+      "kind": "booleano",
+      "description": "A presença do atributo significa verdadeiro; sua ausência significa falso. Não se escreve true ou false como valor HTML.",
+      "options": [
+        "presente = verdadeiro",
+        "ausente = falso"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div ismap=\"valor\">Conteúdo</div>"
+}

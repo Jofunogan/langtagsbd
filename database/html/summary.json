@@ -1,0 +1,15 @@
+{
+  "title": "Resumo de detalhes",
+  "description": "O elemento <summary> define o rótulo visível de um elemento details.",
+  "tags": [
+    "summary",
+    "resumo de detalhes",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <summary> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<summary>Exemplo de conteúdo.</summary>"
+}

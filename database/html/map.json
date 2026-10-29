@@ -1,0 +1,17 @@
+{
+  "title": "Mapa de imagem",
+  "description": "O elemento <map> agrupa áreas clicáveis associadas a uma imagem.",
+  "tags": [
+    "map",
+    "mapa de imagem",
+    "elemento html"
+  ],
+  "attributes": [
+    "name"
+  ],
+  "configurations": [
+    "Use <map> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<map name=\"mapa\"><area href=\"/destino\" alt=\"Abrir destino\"></map>"
+}

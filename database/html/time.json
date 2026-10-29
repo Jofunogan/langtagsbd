@@ -1,0 +1,17 @@
+{
+  "title": "Data ou horário",
+  "description": "O elemento <time> representa uma data, horário ou duração.",
+  "tags": [
+    "time",
+    "data ou horário",
+    "elemento html"
+  ],
+  "attributes": [
+    "datetime"
+  ],
+  "configurations": [
+    "Use <time> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<time datetime=\"2026-10-29\">29 de outubro</time>"
+}

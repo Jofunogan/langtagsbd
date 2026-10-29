@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo poster",
+  "description": "Valores e formatos permitidos para o atributo HTML poster.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "poster",
+      "kind": "URL",
+      "description": "Recebe uma URL válida; use uma URL absoluta ou um caminho relativo conforme o contexto.",
+      "examples": [
+        "https://exemplo.com/recurso",
+        "./arquivo.html"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div poster=\"valor\">Conteúdo</div>"
+}

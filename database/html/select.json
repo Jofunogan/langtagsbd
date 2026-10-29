@@ -1,0 +1,23 @@
+{
+  "title": "Controle de seleção",
+  "description": "O elemento <select> cria um controle para escolher uma ou mais opções.",
+  "tags": [
+    "select",
+    "controle de seleção",
+    "elemento html"
+  ],
+  "attributes": [
+    "autocomplete",
+    "disabled",
+    "form",
+    "multiple",
+    "name",
+    "required",
+    "size"
+  ],
+  "configurations": [
+    "Use <select> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<select name=\"linguagem\"><option>HTML</option></select>"
+}

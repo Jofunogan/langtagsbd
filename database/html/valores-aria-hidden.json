@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo aria-hidden",
+  "description": "Valores e formatos permitidos para o atributo HTML aria-hidden.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "aria-hidden",
+      "kind": "enumeração",
+      "description": "Indica se o elemento deve ser exposto à árvore de acessibilidade.",
+      "options": [
+        "true",
+        "false"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<span aria-hidden=\"true\">★</span>"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Gráfico vetorial SVG",
+  "description": "A tag <svg> cria uma área para gráficos vetoriais escaláveis, como ícones da interface.",
+  "tags": ["svg", "icone", "grafico vetorial", "imagem"],
+  "attributes": ["viewBox", "width", "height", "role", "aria-hidden"],
+  "configurations": ["viewBox define a área de coordenadas", "Use aria-hidden true para ícones decorativos"],
+  "code": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n  <path d=\"M5 12h14\"></path>\n</svg>"
+}

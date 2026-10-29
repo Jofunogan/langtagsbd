@@ -1,0 +1,15 @@
+{
+  "title": "Saída de programa",
+  "description": "O elemento <samp> identifica uma saída de programa ou sistema.",
+  "tags": [
+    "samp",
+    "saída de programa",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <samp> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<samp>Exemplo de conteúdo.</samp>"
+}

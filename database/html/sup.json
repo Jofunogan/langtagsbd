@@ -1,0 +1,15 @@
+{
+  "title": "Texto sobrescrito",
+  "description": "O elemento <sup> apresenta texto em sobrescrito.",
+  "tags": [
+    "sup",
+    "texto sobrescrito",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <sup> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<sup>Exemplo de conteúdo.</sup>"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Artigo",
+  "description": "A tag <article> representa um conteúdo independente, como um card ou uma publicação.",
+  "tags": ["article", "artigo", "conteudo independente", "semantica"],
+  "attributes": ["class", "id", "aria-label", "aria-labelledby", "role"],
+  "configurations": ["Use um título para identificar o conteúdo", "Pode receber atributos globais"],
+  "code": "<article>\n  <h2>Título do conteúdo</h2>\n  <p>Conteúdo independente.</p>\n</article>"
+}

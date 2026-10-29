@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo rowspan",
+  "description": "Valores e formatos permitidos para o atributo HTML rowspan.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "rowspan",
+      "kind": "número",
+      "description": "Número inteiro válido conforme o elemento.",
+      "examples": [
+        "1",
+        "10",
+        "100"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div rowspan=\"valor\">Conteúdo</div>"
+}

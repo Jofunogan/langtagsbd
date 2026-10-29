@@ -1,0 +1,15 @@
+{
+  "title": "Legenda de tabela",
+  "description": "O elemento <caption> define o título ou legenda de uma tabela.",
+  "tags": [
+    "caption",
+    "legenda de tabela",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <caption> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<caption>Exemplo de conteúdo.</caption>"
+}

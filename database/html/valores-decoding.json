@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo decoding",
+  "description": "Valores e formatos permitidos para o atributo HTML decoding.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "decoding",
+      "kind": "enumeração",
+      "description": "Sugere quando decodificar a imagem.",
+      "options": [
+        "sync",
+        "async",
+        "auto"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div decoding=\"valor\">Conteúdo</div>"
+}

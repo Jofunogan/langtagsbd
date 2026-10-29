@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo draggable",
+  "description": "Valores e formatos permitidos para o atributo HTML draggable.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "draggable",
+      "kind": "enumeração",
+      "description": "Indica se o elemento pode ser arrastado.",
+      "options": [
+        "true",
+        "false"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div draggable=\"valor\">Conteúdo</div>"
+}

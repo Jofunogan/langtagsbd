@@ -1,0 +1,8 @@
+{
+  "title": "Script JavaScript",
+  "description": "A tag <script> inclui ou referencia código JavaScript na página.",
+  "tags": ["script", "javascript", "codigo", "defer"],
+  "attributes": ["src", "type", "defer", "async"],
+  "configurations": ["defer executa após a leitura do HTML", "async executa assim que o arquivo carregar", "Use src para arquivo externo"],
+  "code": "<script src=\"app.js\" defer></script>"
+}

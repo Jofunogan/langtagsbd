@@ -1,0 +1,17 @@
+{
+  "title": "Citação em bloco",
+  "description": "O elemento <blockquote> marca uma citação extensa proveniente de outra fonte.",
+  "tags": [
+    "blockquote",
+    "citação em bloco",
+    "elemento html"
+  ],
+  "attributes": [
+    "cite"
+  ],
+  "configurations": [
+    "Use <blockquote> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<blockquote cite=\"https://exemplo.com\">Uma citação.</blockquote>"
+}

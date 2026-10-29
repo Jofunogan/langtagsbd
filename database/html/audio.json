@@ -1,0 +1,23 @@
+{
+  "title": "Áudio",
+  "description": "O elemento <audio> incorpora áudio, com controles de reprodução opcionais.",
+  "tags": [
+    "audio",
+    "áudio",
+    "elemento html"
+  ],
+  "attributes": [
+    "src",
+    "crossorigin",
+    "preload",
+    "autoplay",
+    "loop",
+    "muted",
+    "controls"
+  ],
+  "configurations": [
+    "Use <audio> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<audio controls src=\"audio.mp3\"></audio>"
+}

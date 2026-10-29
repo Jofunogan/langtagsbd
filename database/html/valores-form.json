@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo form",
+  "description": "Valores e formatos permitidos para o atributo HTML form.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "form",
+      "kind": "referência a id",
+      "description": "Recebe um id ou uma lista de ids de elementos relacionados.",
+      "examples": [
+        "alvo",
+        "titulo descricao"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div form=\"valor\">Conteúdo</div>"
+}

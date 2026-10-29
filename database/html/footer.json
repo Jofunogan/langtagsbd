@@ -1,0 +1,15 @@
+{
+  "title": "Rodapé de seção",
+  "description": "O elemento <footer> apresenta informações de rodapé da página ou seção.",
+  "tags": [
+    "footer",
+    "rodapé de seção",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <footer> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<footer>Exemplo de conteúdo.</footer>"
+}

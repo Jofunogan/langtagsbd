@@ -1,0 +1,18 @@
+{
+  "title": "Valores do atributo integrity",
+  "description": "Valores permitidos para integrity conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "integrity",
+      "kind": "metadados SRI",
+      "description": "Hashes de integridade do recurso.",
+      "examples": [
+        "sha384-BASE64"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div integrity=\"valor\">Conteúdo</div>"
+}

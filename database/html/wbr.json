@@ -1,0 +1,15 @@
+{
+  "title": "Oportunidade de quebra de linha",
+  "description": "O elemento <wbr> indica um ponto em que uma palavra pode ser quebrada se necessário.",
+  "tags": [
+    "wbr",
+    "oportunidade de quebra de linha",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <wbr> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<wbr>"
+}

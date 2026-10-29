@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo min",
+  "description": "Valores e formatos permitidos para o atributo HTML min.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "min",
+      "kind": "número",
+      "description": "Número válido conforme o elemento; algumas aplicações aceitam valores fracionários.",
+      "examples": [
+        "0",
+        "0.5",
+        "100"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div min=\"valor\">Conteúdo</div>"
+}

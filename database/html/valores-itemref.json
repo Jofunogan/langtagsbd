@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo itemref",
+  "description": "Valores e formatos permitidos para o atributo HTML itemref.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "itemref",
+      "kind": "referência a id",
+      "description": "Recebe um id ou uma lista de ids de elementos relacionados.",
+      "examples": [
+        "alvo",
+        "titulo descricao"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div itemref=\"valor\">Conteúdo</div>"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Valores do atributo inputmode",
+  "description": "Valores e formatos permitidos para o atributo HTML inputmode.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "inputmode",
+      "kind": "enumeração",
+      "description": "Sugere o tipo de teclado virtual para o campo.",
+      "options": [
+        "none",
+        "text",
+        "tel",
+        "email",
+        "url",
+        "numeric",
+        "decimal",
+        "search"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<input inputmode=\"numeric\">"
+}

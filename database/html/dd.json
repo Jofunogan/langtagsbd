@@ -1,0 +1,15 @@
+{
+  "title": "Descrição de termo",
+  "description": "O elemento <dd> apresenta a descrição ou o valor associado a um termo em dl.",
+  "tags": [
+    "dd",
+    "descrição de termo",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <dd> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<dd>Exemplo de conteúdo.</dd>"
+}

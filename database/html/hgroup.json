@@ -1,0 +1,15 @@
+{
+  "title": "Grupo de título",
+  "description": "O elemento <hgroup> agrupa um título com conteúdo secundário associado.",
+  "tags": [
+    "hgroup",
+    "grupo de título",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <hgroup> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<hgroup>Exemplo de conteúdo.</hgroup>"
+}

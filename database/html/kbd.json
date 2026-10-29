@@ -1,0 +1,15 @@
+{
+  "title": "Entrada de teclado",
+  "description": "O elemento <kbd> identifica texto digitado ou acionado pelo usuário.",
+  "tags": [
+    "kbd",
+    "entrada de teclado",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <kbd> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<kbd>Exemplo de conteúdo.</kbd>"
+}

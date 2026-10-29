@@ -1,0 +1,19 @@
+{
+  "title": "Lista ordenada",
+  "description": "O elemento <ol> cria uma lista em que a ordem dos itens importa.",
+  "tags": [
+    "ol",
+    "lista ordenada",
+    "elemento html"
+  ],
+  "attributes": [
+    "reversed",
+    "start",
+    "type"
+  ],
+  "configurations": [
+    "Use <ol> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<ol start=\"1\"><li>Primeiro item</li></ol>"
+}

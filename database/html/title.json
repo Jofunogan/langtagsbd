@@ -1,0 +1,8 @@
+{
+  "title": "Título da página",
+  "description": "A tag <title> define o título do documento exibido na aba do navegador.",
+  "tags": ["title", "titulo da pagina", "aba", "metadados"],
+  "attributes": [],
+  "configurations": ["Deve ficar dentro de head", "Use um título único e descritivo para a aba do navegador"],
+  "code": "<title>Lang Tags BD</title>"
+}

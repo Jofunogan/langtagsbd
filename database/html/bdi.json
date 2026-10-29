@@ -1,0 +1,17 @@
+{
+  "title": "Texto isolado bidirecional",
+  "description": "O elemento <bdi> isola um trecho para que sua direção de texto não afete o conteúdo ao redor.",
+  "tags": [
+    "bdi",
+    "texto isolado bidirecional",
+    "elemento html"
+  ],
+  "attributes": [
+    "dir"
+  ],
+  "configurations": [
+    "Use <bdi> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<bdi>Exemplo de conteúdo.</bdi>"
+}

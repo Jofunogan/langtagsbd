@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo crossorigin",
+  "description": "Valores e formatos permitidos para o atributo HTML crossorigin.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "crossorigin",
+      "kind": "enumeração",
+      "description": "Define o modo de credenciais para requisições CORS; valor vazio equivale a anonymous.",
+      "options": [
+        "anonymous",
+        "use-credentials"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div crossorigin=\"valor\">Conteúdo</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Linha de tabela",
+  "description": "O elemento <tr> define uma linha de células em uma tabela.",
+  "tags": [
+    "tr",
+    "linha de tabela",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <tr> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<tr>Exemplo de conteúdo.</tr>"
+}

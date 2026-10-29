@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo allowfullscreen",
+  "description": "Valores e formatos permitidos para o atributo HTML allowfullscreen.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "allowfullscreen",
+      "kind": "booleano",
+      "description": "A presença do atributo significa verdadeiro; sua ausência significa falso. Não se escreve true ou false como valor HTML.",
+      "options": [
+        "presente = verdadeiro",
+        "ausente = falso"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div allowfullscreen=\"valor\">Conteúdo</div>"
+}

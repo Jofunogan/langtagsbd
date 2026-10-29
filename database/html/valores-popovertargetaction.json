@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo popovertargetaction",
+  "description": "Valores permitidos para popovertargetaction conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "popovertargetaction",
+      "kind": "enumeração",
+      "description": "Ação que o botão executa no popover.",
+      "options": [
+        "toggle",
+        "show",
+        "hide"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div popovertargetaction=\"valor\">Conteúdo</div>"
+}

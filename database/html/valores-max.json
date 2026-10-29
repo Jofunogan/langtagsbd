@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo max",
+  "description": "Valores e formatos permitidos para o atributo HTML max.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "max",
+      "kind": "número",
+      "description": "Número válido conforme o elemento; algumas aplicações aceitam valores fracionários.",
+      "examples": [
+        "0",
+        "0.5",
+        "100"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div max=\"valor\">Conteúdo</div>"
+}

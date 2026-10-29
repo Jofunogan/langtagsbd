@@ -1,0 +1,8 @@
+{
+  "title": "Parágrafo",
+  "description": "Use a tag <p> para organizar um bloco de texto em um parágrafo.",
+  "tags": ["paragrafo", "texto", "p", "conteudo"],
+  "attributes": ["class", "id", "lang"],
+  "configurations": ["Use para blocos de texto", "Não use apenas para criar espaçamento visual"],
+  "code": "<p>Este é um parágrafo.</p>"
+}

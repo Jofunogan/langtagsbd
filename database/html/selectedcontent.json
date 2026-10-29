@@ -1,0 +1,15 @@
+{
+  "title": "Conteúdo da opção selecionada",
+  "description": "O elemento <selectedcontent> exibe dentro do seletor personalizado o conteúdo da opção selecionada.",
+  "tags": [
+    "selectedcontent",
+    "conteúdo da opção selecionada",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <selectedcontent> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<select>\n  <button><selectedcontent></selectedcontent></button>\n  <option>HTML</option>\n  <option>CSS</option>\n</select>"
+}

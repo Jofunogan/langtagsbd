@@ -1,0 +1,218 @@
+[
+  {
+    "file": "css-regra-at-charset.json",
+    "title": "Codificação do arquivo (@charset)",
+    "description": "@charset organiza ou controla regras CSS. Sintaxe: @charset \"<charset>\";",
+    "tags": [
+      "@charset"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@charset /* @charset \"<charset>\"; */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-counter-style.json",
+    "title": "Estilo de contador personalizado (@counter-style)",
+    "description": "@counter-style organiza ou controla regras CSS. Sintaxe: @counter-style <counter-style-name> {",
+    "tags": [
+      "@counter-style"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@counter-style /* @counter-style <counter-style-name> { */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-container.json",
+    "title": "Regra de contêiner (@container)",
+    "description": "@container organiza ou controla regras CSS. Sintaxe: @container <container-condition># {",
+    "tags": [
+      "@container"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@container (width > 30rem) {\n  .elemento { display: grid; }\n}"
+  },
+  {
+    "file": "css-regra-at-font-face.json",
+    "title": "Declaração de fonte personalizada (@font-face)",
+    "description": "@font-face organiza ou controla regras CSS. Sintaxe: @font-face {",
+    "tags": [
+      "@font-face"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@font-face {\n  font-family: \"Exemplo\";\n  src: url(\"fonte.woff2\");\n}"
+  },
+  {
+    "file": "css-regra-at-font-feature-values.json",
+    "title": "Valores de recursos tipográficos (@font-feature-values)",
+    "description": "@font-feature-values organiza ou controla regras CSS. Sintaxe: @font-feature-values <family-name># {",
+    "tags": [
+      "@font-feature-values"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@font-feature-values /* @font-feature-values <family-name># { */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-font-palette-values.json",
+    "title": "Paleta de cores da fonte (@font-palette-values)",
+    "description": "@font-palette-values organiza ou controla regras CSS. Sintaxe: @font-palette-values <dashed-ident> {",
+    "tags": [
+      "@font-palette-values"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@font-palette-values /* @font-palette-values <dashed-ident> { */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-import.json",
+    "title": "Importação de folha de estilo (@import)",
+    "description": "@import organiza ou controla regras CSS. Sintaxe: @import [ <string> | <url> ]",
+    "tags": [
+      "@import"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@import url(\"tema.css\");"
+  },
+  {
+    "file": "css-regra-at-keyframes.json",
+    "title": "Animação por quadros-chave (@keyframes)",
+    "description": "@keyframes organiza ou controla regras CSS. Sintaxe: @keyframes <keyframes-name> {",
+    "tags": [
+      "@keyframes"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@keyframes aparecer {\n  from { opacity: 0; }\n  to { opacity: 1; }\n}"
+  },
+  {
+    "file": "css-regra-at-layer.json",
+    "title": "Camada de estilos (@layer)",
+    "description": "@layer organiza ou controla regras CSS. Sintaxe: @layer [ <layer-name># | <layer-name>?  {",
+    "tags": [
+      "@layer"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@layer base {\n  .elemento { color: #222; }\n}"
+  },
+  {
+    "file": "css-regra-at-media.json",
+    "title": "Consulta de mídia (@media)",
+    "description": "@media organiza ou controla regras CSS. Sintaxe: @media <media-query-list> {",
+    "tags": [
+      "@media"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@media (width >= 600px) {\n  .elemento { display: grid; }\n}"
+  },
+  {
+    "file": "css-regra-at-namespace.json",
+    "title": "Namespace XML (@namespace)",
+    "description": "@namespace organiza ou controla regras CSS. Sintaxe: @namespace <namespace-prefix>? [ <string> | <url> ];",
+    "tags": [
+      "@namespace"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@namespace /* @namespace <namespace-prefix>? [ <string> | <url> ]; */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-page.json",
+    "title": "Estilos de página impressa (@page)",
+    "description": "@page organiza ou controla regras CSS. Sintaxe: @page <page-selector-list> {",
+    "tags": [
+      "@page"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@page /* @page <page-selector-list> { */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-position-try.json",
+    "title": "Alternativas de posicionamento (@position-try)",
+    "description": "@position-try organiza ou controla regras CSS. Sintaxe: @position-try <dashed-ident> { Recurso experimental conforme o índice MDN.",
+    "tags": [
+      "@position-try"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@position-try /* @position-try <dashed-ident> { */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-property.json",
+    "title": "Propriedade personalizada tipada (@property)",
+    "description": "@property organiza ou controla regras CSS. Sintaxe: @property <custom-property-name> {",
+    "tags": [
+      "@property"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@property /* @property <custom-property-name> { */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-scope.json",
+    "title": "Escopo de seletores (@scope)",
+    "description": "@scope organiza ou controla regras CSS. Sintaxe: @scope [(<scope-start>)]? [to (<scope-end>)]? {",
+    "tags": [
+      "@scope"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@scope /* @scope [(<scope-start>)]? [to (<scope-end>)]? { */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-starting-style.json",
+    "title": "Estilo inicial de transição (@starting-style)",
+    "description": "@starting-style organiza ou controla regras CSS. Sintaxe: @starting-style {",
+    "tags": [
+      "@starting-style"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@starting-style /* @starting-style { */ {\n  /* regras CSS */\n}"
+  },
+  {
+    "file": "css-regra-at-supports.json",
+    "title": "Consulta de suporte a recursos (@supports)",
+    "description": "@supports organiza ou controla regras CSS. Sintaxe: @supports <supports-condition> {",
+    "tags": [
+      "@supports"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@supports (display: grid) {\n  .elemento { display: grid; }\n}"
+  },
+  {
+    "file": "css-regra-at-view-transition.json",
+    "title": "Transição entre visualizações (@view-transition)",
+    "description": "@view-transition organiza ou controla regras CSS. Sintaxe: @view-transition {",
+    "tags": [
+      "@view-transition"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "@view-transition /* @view-transition { */ {\n  /* regras CSS */\n}"
+  }
+]

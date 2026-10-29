@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo rows",
+  "description": "Valores e formatos permitidos para o atributo HTML rows.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "rows",
+      "kind": "número",
+      "description": "Número inteiro válido conforme o elemento.",
+      "examples": [
+        "1",
+        "10",
+        "100"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div rows=\"valor\">Conteúdo</div>"
+}

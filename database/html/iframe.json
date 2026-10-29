@@ -1,0 +1,26 @@
+{
+  "title": "Página incorporada",
+  "description": "O elemento <iframe> incorpora outra página HTML no documento atual.",
+  "tags": [
+    "iframe",
+    "página incorporada",
+    "elemento html"
+  ],
+  "attributes": [
+    "src",
+    "srcdoc",
+    "name",
+    "sandbox",
+    "allow",
+    "allowfullscreen",
+    "width",
+    "height",
+    "referrerpolicy",
+    "loading"
+  ],
+  "configurations": [
+    "Use <iframe> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<iframe src=\"pagina.html\" title=\"Conteúdo incorporado\"></iframe>"
+}

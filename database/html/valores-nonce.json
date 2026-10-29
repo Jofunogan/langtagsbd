@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo nonce",
+  "description": "Valores e formatos permitidos para o atributo HTML nonce.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "nonce",
+      "kind": "texto ou tokens",
+      "description": "Recebe texto, identificador, token ou valor conforme o contexto do elemento.",
+      "examples": [
+        "exemplo",
+        "valor-personalizado"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div nonce=\"valor\">Conteúdo</div>"
+}

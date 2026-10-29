@@ -1,0 +1,1454 @@
+[
+  {
+    "file": "css-seletor-type-selectors.json",
+    "title": "Seletor de elemento",
+    "description": "Seleciona elementos pela sintaxe CSS element.",
+    "tags": [
+      "article"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "article {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-class-selectors.json",
+    "title": "Seletor de classe",
+    "description": "Seleciona elementos pela sintaxe CSS .class.",
+    "tags": [
+      ".cartao"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ".cartao {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-id-selectors.json",
+    "title": "Seletor de identificador",
+    "description": "Seleciona elementos pela sintaxe CSS #id.",
+    "tags": [
+      "#principal"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "#principal {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-universal-selectors.json",
+    "title": "Seletor universal",
+    "description": "Seleciona elementos pela sintaxe CSS *.",
+    "tags": [
+      "*"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "* {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-attribute-selectors.json",
+    "title": "Seletor de atributo",
+    "description": "Seleciona elementos pela sintaxe CSS [attr=value].",
+    "tags": [
+      "[attr=value]"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "[type=\"email\"] {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-nesting-selector.json",
+    "title": "Seletor de aninhamento",
+    "description": "Seleciona elementos pela sintaxe CSS A { &B { } }.",
+    "tags": [
+      "A { &B { } }"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "A { &B { } } {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-selector-list.json",
+    "title": "Lista de seletores",
+    "description": "Seleciona elementos pela sintaxe CSS ,.",
+    "tags": [
+      ","
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ", {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-next-sibling-combinator.json",
+    "title": "Combinador de irmão adjacente",
+    "description": "Seleciona elementos pela sintaxe CSS A + B.",
+    "tags": [
+      "A + B"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "A + B {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-subsequent-sibling-combinator.json",
+    "title": "Combinador de irmãos seguintes",
+    "description": "Seleciona elementos pela sintaxe CSS A ~ B.",
+    "tags": [
+      "A ~ B"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "A ~ B {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-child-combinator.json",
+    "title": "Combinador de filho direto",
+    "description": "Seleciona elementos pela sintaxe CSS A > B.",
+    "tags": [
+      "A > B"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "A > B {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-descendant-combinator.json",
+    "title": "Combinador de descendência",
+    "description": "Seleciona elementos pela sintaxe CSS A B.",
+    "tags": [
+      "A B"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "A B {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-column-combinator.json",
+    "title": "Combinador de coluna",
+    "description": "Seleciona elementos pela sintaxe CSS A || B.",
+    "tags": [
+      "A || B"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "A || B {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-namespace-separator.json",
+    "title": "Separador de namespace",
+    "description": "Seleciona elementos pela sintaxe CSS A | B.",
+    "tags": [
+      "A | B"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "A | B {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-pseudo-classes.json",
+    "title": "Pseudoclasses CSS",
+    "description": "Seleciona elementos pela sintaxe CSS :.",
+    "tags": [
+      ":"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ": {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-pseudo-elements.json",
+    "title": "Pseudoelementos CSS",
+    "description": "Seleciona elementos pela sintaxe CSS ::.",
+    "tags": [
+      "::"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":: {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-active.json",
+    "title": "Seletor CSS Ativo",
+    "description": "Seleciona elementos pela sintaxe CSS :active.",
+    "tags": [
+      ":active"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":active {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-active-view-transition.json",
+    "title": "Seletor CSS Ativo view transição",
+    "description": "Seleciona elementos pela sintaxe CSS :active-view-transition.",
+    "tags": [
+      ":active-view-transition"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":active-view-transition {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-active-view-transition-type-funcao.json",
+    "title": "Seletor CSS Ativo view transição tipo funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :active-view-transition-type( <custom-ident># ).",
+    "tags": [
+      ":active-view-transition-type( <custom-ident># )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":active-view-transition-type( article# ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-any-link.json",
+    "title": "Seletor CSS Any link",
+    "description": "Seleciona elementos pela sintaxe CSS :any-link.",
+    "tags": [
+      ":any-link"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":any-link {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-autofill.json",
+    "title": "Seletor CSS Autofill",
+    "description": "Seleciona elementos pela sintaxe CSS :autofill.",
+    "tags": [
+      ":autofill"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":autofill {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-blank.json",
+    "title": "Seletor CSS Blank",
+    "description": "Seleciona elementos pela sintaxe CSS :blank. Recurso experimental conforme o índice MDN.",
+    "tags": [
+      ":blank"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":blank {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-buffering.json",
+    "title": "Seletor CSS Buffering",
+    "description": "Seleciona elementos pela sintaxe CSS :buffering.",
+    "tags": [
+      ":buffering"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":buffering {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-checked.json",
+    "title": "Seletor CSS Checked",
+    "description": "Seleciona elementos pela sintaxe CSS :checked.",
+    "tags": [
+      ":checked"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":checked {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-current.json",
+    "title": "Seletor CSS Current",
+    "description": "Seleciona elementos pela sintaxe CSS :current. Recurso experimental conforme o índice MDN.",
+    "tags": [
+      ":current"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":current {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-default.json",
+    "title": "Seletor CSS Default",
+    "description": "Seleciona elementos pela sintaxe CSS :default.",
+    "tags": [
+      ":default"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":default {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-defined.json",
+    "title": "Seletor CSS Defined",
+    "description": "Seleciona elementos pela sintaxe CSS :defined.",
+    "tags": [
+      ":defined"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":defined {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-dir-funcao.json",
+    "title": "Seletor CSS Dir funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :dir( [ ltr | rtl ] ).",
+    "tags": [
+      ":dir( [ ltr | rtl ] )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":dir( [ ltr | rtl ] ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-disabled.json",
+    "title": "Seletor CSS Disabled",
+    "description": "Seleciona elementos pela sintaxe CSS :disabled.",
+    "tags": [
+      ":disabled"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":disabled {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-empty.json",
+    "title": "Seletor CSS Empty",
+    "description": "Seleciona elementos pela sintaxe CSS :empty.",
+    "tags": [
+      ":empty"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":empty {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-enabled.json",
+    "title": "Seletor CSS Enabled",
+    "description": "Seleciona elementos pela sintaxe CSS :enabled.",
+    "tags": [
+      ":enabled"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":enabled {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-first.json",
+    "title": "Seletor CSS First",
+    "description": "Seleciona elementos pela sintaxe CSS :first.",
+    "tags": [
+      ":first"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":first {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-first-child.json",
+    "title": "Seletor CSS First child",
+    "description": "Seleciona elementos pela sintaxe CSS :first-child.",
+    "tags": [
+      ":first-child"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":first-child {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-first-of-type.json",
+    "title": "Seletor CSS First of tipo",
+    "description": "Seleciona elementos pela sintaxe CSS :first-of-type.",
+    "tags": [
+      ":first-of-type"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":first-of-type {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-focus.json",
+    "title": "Seletor CSS Focus",
+    "description": "Seleciona elementos pela sintaxe CSS :focus.",
+    "tags": [
+      ":focus"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":focus {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-focus-visible.json",
+    "title": "Seletor CSS Focus visible",
+    "description": "Seleciona elementos pela sintaxe CSS :focus-visible.",
+    "tags": [
+      ":focus-visible"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":focus-visible {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-focus-within.json",
+    "title": "Seletor CSS Focus within",
+    "description": "Seleciona elementos pela sintaxe CSS :focus-within.",
+    "tags": [
+      ":focus-within"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":focus-within {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-fullscreen.json",
+    "title": "Seletor CSS Fullscreen",
+    "description": "Seleciona elementos pela sintaxe CSS :fullscreen.",
+    "tags": [
+      ":fullscreen"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":fullscreen {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-future.json",
+    "title": "Seletor CSS Future",
+    "description": "Seleciona elementos pela sintaxe CSS :future.",
+    "tags": [
+      ":future"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":future {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-has-funcao.json",
+    "title": "Seletor CSS Has funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :has( <forgiving-relative-selector-list> ).",
+    "tags": [
+      ":has( <forgiving-relative-selector-list> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":has( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-has-slotted.json",
+    "title": "Seletor CSS Has slotted",
+    "description": "Seleciona elementos pela sintaxe CSS :has-slotted.",
+    "tags": [
+      ":has-slotted"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":has-slotted {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-host.json",
+    "title": "Seletor CSS Host",
+    "description": "Seleciona elementos pela sintaxe CSS :host.",
+    "tags": [
+      ":host"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":host {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-host-funcao.json",
+    "title": "Seletor CSS Host funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :host( <compound-selector> ).",
+    "tags": [
+      ":host( <compound-selector> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":host( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-host-context-funcao.json",
+    "title": "Seletor CSS Host context funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :host-context( <compound-selector> ).",
+    "tags": [
+      ":host-context( <compound-selector> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":host-context( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-hover.json",
+    "title": "Seletor CSS Hover",
+    "description": "Seleciona elementos pela sintaxe CSS :hover.",
+    "tags": [
+      ":hover"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":hover {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-in-range.json",
+    "title": "Seletor CSS In intervalo",
+    "description": "Seleciona elementos pela sintaxe CSS :in-range.",
+    "tags": [
+      ":in-range"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":in-range {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-indeterminate.json",
+    "title": "Seletor CSS Indeterminate",
+    "description": "Seleciona elementos pela sintaxe CSS :indeterminate.",
+    "tags": [
+      ":indeterminate"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":indeterminate {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-invalid.json",
+    "title": "Seletor CSS Invalid",
+    "description": "Seleciona elementos pela sintaxe CSS :invalid.",
+    "tags": [
+      ":invalid"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":invalid {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-is-funcao.json",
+    "title": "Seletor CSS Is funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :is( <forgiving-selector-list> ).",
+    "tags": [
+      ":is( <forgiving-selector-list> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":is( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-lang-funcao.json",
+    "title": "Seletor CSS Lang funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :lang( <language-code> ).",
+    "tags": [
+      ":lang( <language-code> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":lang( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-last-child.json",
+    "title": "Seletor CSS Last child",
+    "description": "Seleciona elementos pela sintaxe CSS :last-child.",
+    "tags": [
+      ":last-child"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":last-child {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-last-of-type.json",
+    "title": "Seletor CSS Last of tipo",
+    "description": "Seleciona elementos pela sintaxe CSS :last-of-type.",
+    "tags": [
+      ":last-of-type"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":last-of-type {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-left.json",
+    "title": "Seletor CSS Esquerda",
+    "description": "Seleciona elementos pela sintaxe CSS :left.",
+    "tags": [
+      ":left"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":left {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-link.json",
+    "title": "Seletor CSS Link",
+    "description": "Seleciona elementos pela sintaxe CSS :link.",
+    "tags": [
+      ":link"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":link {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-local-link.json",
+    "title": "Seletor CSS Local link",
+    "description": "Seleciona elementos pela sintaxe CSS :local-link. Recurso experimental conforme o índice MDN.",
+    "tags": [
+      ":local-link"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":local-link {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-modal.json",
+    "title": "Seletor CSS Modal",
+    "description": "Seleciona elementos pela sintaxe CSS :modal.",
+    "tags": [
+      ":modal"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":modal {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-muted.json",
+    "title": "Seletor CSS Muted",
+    "description": "Seleciona elementos pela sintaxe CSS :muted.",
+    "tags": [
+      ":muted"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":muted {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-not-funcao.json",
+    "title": "Seletor CSS Not funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :not( <complex-selector-list> ).",
+    "tags": [
+      ":not( <complex-selector-list> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":not( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-nth-child-funcao.json",
+    "title": "Seletor CSS Nth child funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :nth-child( <an+b> [ of <complex-selector-list> ]? ).",
+    "tags": [
+      ":nth-child( <an+b> [ of <complex-selector-list> ]? )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":nth-child( article [ of article ]? ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-nth-last-child-funcao.json",
+    "title": "Seletor CSS Nth last child funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :nth-last-child( <an+b> [ of <complex-selector-list> ]? ).",
+    "tags": [
+      ":nth-last-child( <an+b> [ of <complex-selector-list> ]? )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":nth-last-child( article [ of article ]? ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-nth-last-of-type-funcao.json",
+    "title": "Seletor CSS Nth last of tipo funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :nth-last-of-type( <an+b> ).",
+    "tags": [
+      ":nth-last-of-type( <an+b> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":nth-last-of-type( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-nth-of-type-funcao.json",
+    "title": "Seletor CSS Nth of tipo funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :nth-of-type( <an+b> ).",
+    "tags": [
+      ":nth-of-type( <an+b> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":nth-of-type( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-only-child.json",
+    "title": "Seletor CSS Only child",
+    "description": "Seleciona elementos pela sintaxe CSS :only-child.",
+    "tags": [
+      ":only-child"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":only-child {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-only-of-type.json",
+    "title": "Seletor CSS Only of tipo",
+    "description": "Seleciona elementos pela sintaxe CSS :only-of-type.",
+    "tags": [
+      ":only-of-type"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":only-of-type {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-open.json",
+    "title": "Seletor CSS Open",
+    "description": "Seleciona elementos pela sintaxe CSS :open.",
+    "tags": [
+      ":open"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":open {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-optional.json",
+    "title": "Seletor CSS Optional",
+    "description": "Seleciona elementos pela sintaxe CSS :optional.",
+    "tags": [
+      ":optional"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":optional {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-out-of-range.json",
+    "title": "Seletor CSS Out of intervalo",
+    "description": "Seleciona elementos pela sintaxe CSS :out-of-range.",
+    "tags": [
+      ":out-of-range"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":out-of-range {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-past.json",
+    "title": "Seletor CSS Past",
+    "description": "Seleciona elementos pela sintaxe CSS :past.",
+    "tags": [
+      ":past"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":past {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-paused.json",
+    "title": "Seletor CSS Paused",
+    "description": "Seleciona elementos pela sintaxe CSS :paused.",
+    "tags": [
+      ":paused"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":paused {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-picture-in-picture.json",
+    "title": "Seletor CSS Picture in picture",
+    "description": "Seleciona elementos pela sintaxe CSS :picture-in-picture.",
+    "tags": [
+      ":picture-in-picture"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":picture-in-picture {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-placeholder-shown.json",
+    "title": "Seletor CSS Placeholder shown",
+    "description": "Seleciona elementos pela sintaxe CSS :placeholder-shown.",
+    "tags": [
+      ":placeholder-shown"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":placeholder-shown {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-playing.json",
+    "title": "Seletor CSS Playing",
+    "description": "Seleciona elementos pela sintaxe CSS :playing.",
+    "tags": [
+      ":playing"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":playing {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-popover-open.json",
+    "title": "Seletor CSS Popover open",
+    "description": "Seleciona elementos pela sintaxe CSS :popover-open.",
+    "tags": [
+      ":popover-open"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":popover-open {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-read-only.json",
+    "title": "Seletor CSS Read only",
+    "description": "Seleciona elementos pela sintaxe CSS :read-only.",
+    "tags": [
+      ":read-only"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":read-only {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-read-write.json",
+    "title": "Seletor CSS Read write",
+    "description": "Seleciona elementos pela sintaxe CSS :read-write.",
+    "tags": [
+      ":read-write"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":read-write {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-required.json",
+    "title": "Seletor CSS Required",
+    "description": "Seleciona elementos pela sintaxe CSS :required.",
+    "tags": [
+      ":required"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":required {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-right.json",
+    "title": "Seletor CSS Direita",
+    "description": "Seleciona elementos pela sintaxe CSS :right.",
+    "tags": [
+      ":right"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":right {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-root.json",
+    "title": "Seletor CSS Root",
+    "description": "Seleciona elementos pela sintaxe CSS :root.",
+    "tags": [
+      ":root"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":root {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-scope.json",
+    "title": "Seletor CSS Escopo",
+    "description": "Seleciona elementos pela sintaxe CSS :scope.",
+    "tags": [
+      ":scope"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":scope {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-seeking.json",
+    "title": "Seletor CSS Seeking",
+    "description": "Seleciona elementos pela sintaxe CSS :seeking.",
+    "tags": [
+      ":seeking"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":seeking {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-stalled.json",
+    "title": "Seletor CSS Stalled",
+    "description": "Seleciona elementos pela sintaxe CSS :stalled.",
+    "tags": [
+      ":stalled"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":stalled {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-state-funcao.json",
+    "title": "Seletor CSS Estado funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :state( <custom-ident> ).",
+    "tags": [
+      ":state( <custom-ident> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":state( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-target.json",
+    "title": "Seletor CSS Target",
+    "description": "Seleciona elementos pela sintaxe CSS :target.",
+    "tags": [
+      ":target"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":target {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-target-current.json",
+    "title": "Seletor CSS Target current",
+    "description": "Seleciona elementos pela sintaxe CSS :target-current. Recurso experimental conforme o índice MDN.",
+    "tags": [
+      ":target-current"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":target-current {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-target-within.json",
+    "title": "Seletor CSS Target within",
+    "description": "Seleciona elementos pela sintaxe CSS :target-within. Recurso experimental conforme o índice MDN.",
+    "tags": [
+      ":target-within"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":target-within {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-user-invalid.json",
+    "title": "Seletor CSS User invalid",
+    "description": "Seleciona elementos pela sintaxe CSS :user-invalid.",
+    "tags": [
+      ":user-invalid"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":user-invalid {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-user-valid.json",
+    "title": "Seletor CSS User valid",
+    "description": "Seleciona elementos pela sintaxe CSS :user-valid.",
+    "tags": [
+      ":user-valid"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":user-valid {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-valid.json",
+    "title": "Seletor CSS Valid",
+    "description": "Seleciona elementos pela sintaxe CSS :valid.",
+    "tags": [
+      ":valid"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":valid {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-visited.json",
+    "title": "Seletor CSS Visited",
+    "description": "Seleciona elementos pela sintaxe CSS :visited.",
+    "tags": [
+      ":visited"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":visited {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-volume-locked.json",
+    "title": "Seletor CSS Volume locked",
+    "description": "Seleciona elementos pela sintaxe CSS :volume-locked.",
+    "tags": [
+      ":volume-locked"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":volume-locked {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-where-funcao.json",
+    "title": "Seletor CSS Where funcao",
+    "description": "Seleciona elementos pela sintaxe CSS :where( <complex-selector-list> ).",
+    "tags": [
+      ":where( <complex-selector-list> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":where( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-xr-overlay.json",
+    "title": "Seletor CSS Xr overlay",
+    "description": "Seleciona elementos pela sintaxe CSS :xr-overlay. Recurso experimental conforme o índice MDN.",
+    "tags": [
+      ":xr-overlay"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": ":xr-overlay {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-after.json",
+    "title": "Seletor CSS After",
+    "description": "Seleciona elementos pela sintaxe CSS ::after.",
+    "tags": [
+      "::after"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::after {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-backdrop.json",
+    "title": "Seletor CSS Fundo",
+    "description": "Seleciona elementos pela sintaxe CSS ::backdrop.",
+    "tags": [
+      "::backdrop"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::backdrop {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-before.json",
+    "title": "Seletor CSS Before",
+    "description": "Seleciona elementos pela sintaxe CSS ::before.",
+    "tags": [
+      "::before"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::before {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-checkmark.json",
+    "title": "Seletor CSS Checkmark",
+    "description": "Seleciona elementos pela sintaxe CSS ::checkmark.",
+    "tags": [
+      "::checkmark"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::checkmark {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-cue.json",
+    "title": "Seletor CSS Cue",
+    "description": "Seleciona elementos pela sintaxe CSS ::cue.",
+    "tags": [
+      "::cue"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::cue {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-cue-funcao.json",
+    "title": "Seletor CSS Cue funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::cue( <selector> ).",
+    "tags": [
+      "::cue( <selector> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::cue( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-cue-region.json",
+    "title": "Seletor CSS Cue region",
+    "description": "Seleciona elementos pela sintaxe CSS ::cue-region. Recurso experimental conforme o índice MDN.",
+    "tags": [
+      "::cue-region"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::cue-region {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-cue-region-funcao.json",
+    "title": "Seletor CSS Cue region funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::cue-region( <selector> ). Recurso experimental conforme o índice MDN.",
+    "tags": [
+      "::cue-region( <selector> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::cue-region( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-details-content.json",
+    "title": "Seletor CSS Details conteúdo",
+    "description": "Seleciona elementos pela sintaxe CSS ::details-content.",
+    "tags": [
+      "::details-content"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::details-content {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-file-selector-button.json",
+    "title": "Seletor CSS File seletor button",
+    "description": "Seleciona elementos pela sintaxe CSS ::file-selector-button.",
+    "tags": [
+      "::file-selector-button"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::file-selector-button {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-first-letter.json",
+    "title": "Seletor CSS First letra",
+    "description": "Seleciona elementos pela sintaxe CSS ::first-letter.",
+    "tags": [
+      "::first-letter"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::first-letter {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-first-line.json",
+    "title": "Seletor CSS First linha",
+    "description": "Seleciona elementos pela sintaxe CSS ::first-line.",
+    "tags": [
+      "::first-line"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::first-line {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-grammar-error.json",
+    "title": "Seletor CSS Grammar error",
+    "description": "Seleciona elementos pela sintaxe CSS ::grammar-error.",
+    "tags": [
+      "::grammar-error"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::grammar-error {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-highlight-funcao.json",
+    "title": "Seletor CSS Highlight funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::highlight( <custom-ident> ).",
+    "tags": [
+      "::highlight( <custom-ident> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::highlight( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-marker.json",
+    "title": "Seletor CSS Marker",
+    "description": "Seleciona elementos pela sintaxe CSS ::marker.",
+    "tags": [
+      "::marker"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::marker {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-part-funcao.json",
+    "title": "Seletor CSS Part funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::part( <ident>+ ).",
+    "tags": [
+      "::part( <ident>+ )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::part( article+ ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-picker-icon.json",
+    "title": "Seletor CSS Picker icon",
+    "description": "Seleciona elementos pela sintaxe CSS ::picker-icon.",
+    "tags": [
+      "::picker-icon"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::picker-icon {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-picker-funcao.json",
+    "title": "Seletor CSS Picker funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::picker( <form-control-identifier>+ ).",
+    "tags": [
+      "::picker( <form-control-identifier>+ )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::picker( article+ ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-placeholder.json",
+    "title": "Seletor CSS Placeholder",
+    "description": "Seleciona elementos pela sintaxe CSS ::placeholder.",
+    "tags": [
+      "::placeholder"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::placeholder {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-scroll-marker.json",
+    "title": "Seletor CSS Rolagem marker",
+    "description": "Seleciona elementos pela sintaxe CSS ::scroll-marker. Recurso experimental conforme o índice MDN.",
+    "tags": [
+      "::scroll-marker"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::scroll-marker {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-scroll-marker-group.json",
+    "title": "Seletor CSS Rolagem marker group",
+    "description": "Seleciona elementos pela sintaxe CSS ::scroll-marker-group. Recurso experimental conforme o índice MDN.",
+    "tags": [
+      "::scroll-marker-group"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::scroll-marker-group {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-selection.json",
+    "title": "Seletor CSS Selection",
+    "description": "Seleciona elementos pela sintaxe CSS ::selection.",
+    "tags": [
+      "::selection"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::selection {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-slotted-funcao.json",
+    "title": "Seletor CSS Slotted funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::slotted( <compound-selector> ).",
+    "tags": [
+      "::slotted( <compound-selector> )"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::slotted( article ) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-spelling-error.json",
+    "title": "Seletor CSS Spelling error",
+    "description": "Seleciona elementos pela sintaxe CSS ::spelling-error.",
+    "tags": [
+      "::spelling-error"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::spelling-error {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-target-text.json",
+    "title": "Seletor CSS Target texto",
+    "description": "Seleciona elementos pela sintaxe CSS ::target-text.",
+    "tags": [
+      "::target-text"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::target-text {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-view-transition.json",
+    "title": "Seletor CSS View transição",
+    "description": "Seleciona elementos pela sintaxe CSS ::view-transition.",
+    "tags": [
+      "::view-transition"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::view-transition {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-view-transition-group-funcao.json",
+    "title": "Seletor CSS View transição group funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::view-transition-group([ '*' | <custom-ident> ]).",
+    "tags": [
+      "::view-transition-group([ '*' | <custom-ident> ])"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::view-transition-group([ '*' | article ]) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-view-transition-image-pair-funcao.json",
+    "title": "Seletor CSS View transição imagem pair funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::view-transition-image-pair([ '*' | <custom-ident> ]).",
+    "tags": [
+      "::view-transition-image-pair([ '*' | <custom-ident> ])"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::view-transition-image-pair([ '*' | article ]) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-view-transition-new-funcao.json",
+    "title": "Seletor CSS View transição new funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::view-transition-new([ '*' | <custom-ident> ]).",
+    "tags": [
+      "::view-transition-new([ '*' | <custom-ident> ])"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::view-transition-new([ '*' | article ]) {\n  color: rebeccapurple;\n}"
+  },
+  {
+    "file": "css-seletor-view-transition-old-funcao.json",
+    "title": "Seletor CSS View transição old funcao",
+    "description": "Seleciona elementos pela sintaxe CSS ::view-transition-old([ '*' | <custom-ident> ]).",
+    "tags": [
+      "::view-transition-old([ '*' | <custom-ident> ])"
+    ],
+    "attributes": [],
+    "valueGroups": [],
+    "configurations": [],
+    "code": "::view-transition-old([ '*' | article ]) {\n  color: rebeccapurple;\n}"
+  }
+]

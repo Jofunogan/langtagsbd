@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo optimum",
+  "description": "Valores e formatos permitidos para o atributo HTML optimum.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "optimum",
+      "kind": "número",
+      "description": "Número válido conforme o elemento; algumas aplicações aceitam valores fracionários.",
+      "examples": [
+        "0",
+        "0.5",
+        "100"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div optimum=\"valor\">Conteúdo</div>"
+}

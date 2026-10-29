@@ -1,0 +1,8 @@
+{
+  "title": "Campo de entrada",
+  "description": "A tag <input> cria um campo para entrada de texto, pesquisa, seleção e outros tipos de dado.",
+  "tags": ["input", "campo", "entrada", "pesquisa"],
+  "attributes": ["type", "name", "value", "placeholder", "autocomplete", "required", "aria-label"],
+  "configurations": ["Escolha type conforme o dado esperado", "Associe um label acessível", "Use autocomplete off para desativar sugestões"],
+  "code": "<input type=\"text\" placeholder=\"Digite para pesquisar\">"
+}

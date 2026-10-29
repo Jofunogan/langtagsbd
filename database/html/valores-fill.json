@@ -1,0 +1,25 @@
+{
+  "title": "Valores do atributo fill",
+  "description": "Valores e formatos permitidos para o atributo HTML fill.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "fill",
+      "kind": "valor SVG/CSS",
+      "description": "Aceita uma cor, none ou referência a um paint server SVG; cores e identificadores podem variar.",
+      "options": [
+        "none",
+        "currentColor",
+        "context-fill",
+        "context-stroke",
+        "transparent",
+        "red",
+        "#000000",
+        "url(#gradiente)"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<path fill=\"currentColor\" d=\"M0 0h24v24z\"></path>"
+}

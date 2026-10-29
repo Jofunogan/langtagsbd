@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo reversed",
+  "description": "Valores e formatos permitidos para o atributo HTML reversed.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "reversed",
+      "kind": "booleano",
+      "description": "A presença do atributo significa verdadeiro; sua ausência significa falso. Não se escreve true ou false como valor HTML.",
+      "options": [
+        "presente = verdadeiro",
+        "ausente = falso"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div reversed=\"valor\">Conteúdo</div>"
+}

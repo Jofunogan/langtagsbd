@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo label",
+  "description": "Valores e formatos permitidos para o atributo HTML label.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "label",
+      "kind": "texto ou tokens",
+      "description": "Recebe texto, identificador, token ou valor conforme o contexto do elemento.",
+      "examples": [
+        "exemplo",
+        "valor-personalizado"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div label=\"valor\">Conteúdo</div>"
+}

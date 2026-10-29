@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo formnovalidate",
+  "description": "Valores permitidos para formnovalidate conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "formnovalidate",
+      "kind": "booleano",
+      "description": "A presença significa verdadeiro; a ausência significa falso. Não recebe os textos true ou false.",
+      "options": [
+        "presente = verdadeiro",
+        "ausente = falso"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div formnovalidate=\"valor\">Conteúdo</div>"
+}

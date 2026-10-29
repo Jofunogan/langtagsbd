@@ -1,0 +1,15 @@
+{
+  "title": "Fallback para ruby",
+  "description": "O elemento <rp> fornece pontuação alternativa em navegadores sem suporte a ruby.",
+  "tags": [
+    "rp",
+    "fallback para ruby",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <rp> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<rp>Exemplo de conteúdo.</rp>"
+}

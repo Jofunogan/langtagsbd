@@ -1,0 +1,22 @@
+{
+  "title": "Medida dentro de uma faixa",
+  "description": "O elemento <meter> apresenta uma medida escalar dentro de limites conhecidos.",
+  "tags": [
+    "meter",
+    "medida dentro de uma faixa",
+    "elemento html"
+  ],
+  "attributes": [
+    "value",
+    "min",
+    "max",
+    "low",
+    "high",
+    "optimum"
+  ],
+  "configurations": [
+    "Use <meter> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<meter min=\"0\" max=\"100\" value=\"65\">65%</meter>"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Cabeçalho da tabela",
+  "description": "O elemento <thead> agrupa as linhas de cabeçalho de uma tabela.",
+  "tags": [
+    "thead",
+    "cabeçalho da tabela",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <thead> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<thead>Exemplo de conteúdo.</thead>"
+}

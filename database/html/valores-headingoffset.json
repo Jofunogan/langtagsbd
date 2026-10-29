@@ -1,0 +1,26 @@
+{
+  "title": "Valores do atributo headingoffset",
+  "description": "Valores e formatos permitidos para o atributo HTML headingoffset.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "headingoffset",
+      "kind": "enumeração",
+      "description": "Desloca o nível dos títulos descendentes de 0 a 8.",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div headingoffset=\"valor\">Conteúdo</div>"
+}

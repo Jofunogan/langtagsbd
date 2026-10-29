@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo srcset",
+  "description": "Valores e formatos permitidos para o atributo HTML srcset.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "srcset",
+      "kind": "lista de imagens",
+      "description": "Lista URLs de imagem e descritores de densidade ou largura.",
+      "examples": [
+        "imagem-1x.png 1x, imagem-2x.png 2x",
+        "pequena.jpg 480w, grande.jpg 960w"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div srcset=\"valor\">Conteúdo</div>"
+}

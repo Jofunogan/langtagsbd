@@ -1,0 +1,18 @@
+{
+  "title": "Valores do atributo aria-describedby",
+  "description": "Valores e formatos permitidos para o atributo HTML aria-describedby.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "aria-describedby",
+      "kind": "valor ARIA",
+      "description": "O valor depende do estado ou propriedade ARIA; pode ser texto, referência a id, número ou estado enumerado.",
+      "examples": [
+        "titulo secao-ajuda"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div aria-describedby=\"valor\">Conteúdo</div>"
+}

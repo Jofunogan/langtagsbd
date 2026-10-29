@@ -1,0 +1,8 @@
+{
+  "title": "Cabeçalho do documento",
+  "description": "A tag <head> reúne metadados, título, estilos e scripts associados ao documento.",
+  "tags": ["head", "metadados", "configuracao", "documento"],
+  "attributes": [],
+  "configurations": ["Inclua title, meta, link e script", "Não exibe conteúdo diretamente na página"],
+  "code": "<head>\n  <meta charset=\"utf-8\">\n  <title>Minha página</title>\n</head>"
+}

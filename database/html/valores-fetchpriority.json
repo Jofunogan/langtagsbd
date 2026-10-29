@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo fetchpriority",
+  "description": "Valores e formatos permitidos para o atributo HTML fetchpriority.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "fetchpriority",
+      "kind": "enumeração",
+      "description": "Sugere a prioridade da requisição do recurso.",
+      "options": [
+        "auto",
+        "high",
+        "low"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div fetchpriority=\"valor\">Conteúdo</div>"
+}

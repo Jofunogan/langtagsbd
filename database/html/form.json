@@ -1,0 +1,8 @@
+{
+  "title": "Formulário",
+  "description": "A tag <form> agrupa campos e controles usados para enviar ou processar dados.",
+  "tags": ["form", "formulario", "pesquisa", "dados"],
+  "attributes": ["action", "method", "role", "autocomplete", "novalidate"],
+  "configurations": ["method get para pesquisas", "method post para envio de dados", "role search identifica formulário de busca"],
+  "code": "<form role=\"search\">\n  <input type=\"search\" aria-label=\"Pesquisar\">\n  <button>Buscar</button>\n</form>"
+}

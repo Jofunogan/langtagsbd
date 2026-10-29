@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo content",
+  "description": "Valores e formatos permitidos para o atributo HTML content.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "content",
+      "kind": "texto ou tokens",
+      "description": "Recebe texto, identificador, token ou valor conforme o contexto do elemento.",
+      "examples": [
+        "exemplo",
+        "valor-personalizado"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div content=\"valor\">Conteúdo</div>"
+}

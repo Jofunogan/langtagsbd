@@ -1,0 +1,18 @@
+{
+  "title": "Conteúdo expansível",
+  "description": "O elemento <details> cria uma área expansível que pode ser aberta ou fechada.",
+  "tags": [
+    "details",
+    "conteúdo expansível",
+    "elemento html"
+  ],
+  "attributes": [
+    "name",
+    "open"
+  ],
+  "configurations": [
+    "Use <details> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<details><summary>Mais informações</summary><p>Conteúdo extra.</p></details>"
+}

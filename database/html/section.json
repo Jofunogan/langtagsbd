@@ -1,0 +1,8 @@
+{
+  "title": "Seção de conteúdo",
+  "description": "A tag <section> agrupa conteúdo relacionado em uma seção temática da página.",
+  "tags": ["section", "secao", "agrupamento", "semantica"],
+  "attributes": ["id", "class", "aria-label", "aria-live", "aria-busy"],
+  "configurations": ["Use um título para nomear a seção", "aria-live polite anuncia atualizações sem interromper"],
+  "code": "<section aria-label=\"Resultados\">\n  <h2>Resultados</h2>\n</section>"
+}

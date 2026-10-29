@@ -1,0 +1,8 @@
+{
+  "title": "Trecho de texto",
+  "description": "A tag <span> agrupa um trecho curto de conteúdo sem criar uma quebra de linha.",
+  "tags": ["span", "trecho", "texto", "inline"],
+  "attributes": ["class", "id", "aria-hidden"],
+  "configurations": ["Elemento em linha sem significado semântico próprio", "Use class para estilizar um trecho"],
+  "code": "<p>Linguagem: <span>HTML</span></p>"
+}

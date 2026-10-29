@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo media",
+  "description": "Valores e formatos permitidos para o atributo HTML media.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "media",
+      "kind": "lista de media queries",
+      "description": "Recebe uma ou mais condições CSS de mídia.",
+      "examples": [
+        "screen",
+        "print",
+        "(width >= 600px)"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div media=\"valor\">Conteúdo</div>"
+}

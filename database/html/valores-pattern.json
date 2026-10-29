@@ -1,0 +1,18 @@
+{
+  "title": "Valores do atributo pattern",
+  "description": "Valores permitidos para pattern conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "pattern",
+      "kind": "expressão regular",
+      "description": "Padrão JavaScript usado para validar o valor do campo.",
+      "examples": [
+        "[A-Za-z]{3,}"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div pattern=\"valor\">Conteúdo</div>"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Imagem",
+  "description": "O elemento <img> insere uma imagem no conteúdo.",
+  "tags": [
+    "img",
+    "imagem",
+    "elemento html"
+  ],
+  "attributes": [
+    "alt",
+    "src",
+    "srcset",
+    "sizes",
+    "width",
+    "height",
+    "crossorigin",
+    "usemap",
+    "ismap",
+    "loading",
+    "decoding",
+    "fetchpriority",
+    "referrerpolicy"
+  ],
+  "configurations": [
+    "Use <img> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<img src=\"imagem.jpg\" alt=\"Descrição da imagem\" width=\"320\">"
+}

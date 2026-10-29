@@ -1,0 +1,21 @@
+{
+  "title": "Célula de cabeçalho",
+  "description": "O elemento <th> define uma célula que identifica uma linha ou coluna da tabela.",
+  "tags": [
+    "th",
+    "célula de cabeçalho",
+    "elemento html"
+  ],
+  "attributes": [
+    "colspan",
+    "rowspan",
+    "headers",
+    "scope",
+    "abbr"
+  ],
+  "configurations": [
+    "Use <th> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<th>Exemplo de conteúdo.</th>"
+}

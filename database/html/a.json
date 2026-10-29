@@ -1,0 +1,24 @@
+{
+  "title": "Link",
+  "description": "O elemento <a> cria um hiperlink para outra página, arquivo ou seção do documento.",
+  "tags": [
+    "a",
+    "link",
+    "elemento html"
+  ],
+  "attributes": [
+    "href",
+    "target",
+    "download",
+    "ping",
+    "rel",
+    "hreflang",
+    "type",
+    "referrerpolicy"
+  ],
+  "configurations": [
+    "Use <a> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<a href=\"https://exemplo.com\">Acessar página</a>"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo shadowrootmode",
+  "description": "Valores e formatos permitidos para o atributo HTML shadowrootmode.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "shadowrootmode",
+      "kind": "valor livre ou formato específico",
+      "description": "Aceita texto ou um formato definido pelo elemento; consulte o contexto da tag para validar o conteúdo.",
+      "examples": [
+        "exemplo",
+        "valor-personalizado"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div shadowrootmode=\"valor\">Conteúdo</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Imagem responsiva",
+  "description": "O elemento <picture> permite escolher imagens alternativas conforme tela ou formato.",
+  "tags": [
+    "picture",
+    "imagem responsiva",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <picture> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<picture>Exemplo de conteúdo.</picture>"
+}

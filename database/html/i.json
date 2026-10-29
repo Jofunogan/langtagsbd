@@ -1,0 +1,15 @@
+{
+  "title": "Texto em voz ou modo alternativo",
+  "description": "O elemento <i> marca texto em voz ou modo alternativo, como termo técnico ou expressão estrangeira.",
+  "tags": [
+    "i",
+    "texto em voz ou modo alternativo",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <i> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<i>Exemplo de conteúdo.</i>"
+}

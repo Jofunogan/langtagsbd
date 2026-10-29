@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo aria-busy",
+  "description": "Valores e formatos permitidos para o atributo HTML aria-busy.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "aria-busy",
+      "kind": "enumeração",
+      "description": "Indica se o elemento está sendo atualizado.",
+      "options": [
+        "true",
+        "false"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div aria-busy=\"valor\">Conteúdo</div>"
+}

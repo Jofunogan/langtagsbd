@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo span",
+  "description": "Valores e formatos permitidos para o atributo HTML span.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "span",
+      "kind": "número",
+      "description": "Número inteiro válido conforme o elemento.",
+      "examples": [
+        "1",
+        "10",
+        "100"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div span=\"valor\">Conteúdo</div>"
+}

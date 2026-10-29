@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo shadowrootcustomelementregistry",
+  "description": "Valores permitidos para shadowrootcustomelementregistry conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "shadowrootcustomelementregistry",
+      "kind": "booleano",
+      "description": "A presença significa verdadeiro; a ausência significa falso. Não recebe os textos true ou false.",
+      "options": [
+        "presente = verdadeiro",
+        "ausente = falso"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div shadowrootcustomelementregistry=\"valor\">Conteúdo</div>"
+}

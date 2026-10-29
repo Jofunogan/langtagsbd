@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo placeholder",
+  "description": "Valores e formatos permitidos para o atributo HTML placeholder.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "placeholder",
+      "kind": "texto ou tokens",
+      "description": "Recebe texto, identificador, token ou valor conforme o contexto do elemento.",
+      "examples": [
+        "exemplo",
+        "valor-personalizado"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div placeholder=\"valor\">Conteúdo</div>"
+}

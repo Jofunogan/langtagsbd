@@ -1,0 +1,17 @@
+{
+  "title": "Grupo de colunas",
+  "description": "O elemento <colgroup> agrupa colunas de uma tabela para aplicar propriedades em conjunto.",
+  "tags": [
+    "colgroup",
+    "grupo de colunas",
+    "elemento html"
+  ],
+  "attributes": [
+    "span"
+  ],
+  "configurations": [
+    "Use <colgroup> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<colgroup>Exemplo de conteúdo.</colgroup>"
+}

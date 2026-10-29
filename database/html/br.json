@@ -1,0 +1,15 @@
+{
+  "title": "Quebra de linha",
+  "description": "O elemento <br> insere uma quebra de linha no texto.",
+  "tags": [
+    "br",
+    "quebra de linha",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <br> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<br>"
+}

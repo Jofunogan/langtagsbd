@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo color",
+  "description": "Valores permitidos para color conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "color",
+      "kind": "cor CSS",
+      "description": "Aceita um valor de cor CSS para o ícone do site.",
+      "examples": [
+        "red",
+        "#3366ff",
+        "rgb(20 40 80)"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div color=\"valor\">Conteúdo</div>"
+}

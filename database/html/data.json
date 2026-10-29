@@ -1,0 +1,17 @@
+{
+  "title": "Dado com valor legível por máquina",
+  "description": "O elemento <data> associa um valor legível por máquina ao conteúdo apresentado.",
+  "tags": [
+    "data",
+    "dado com valor legível por máquina",
+    "elemento html"
+  ],
+  "attributes": [
+    "value"
+  ],
+  "configurations": [
+    "Use <data> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<data value=\"123\">Cento e vinte e três</data>"
+}

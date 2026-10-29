@@ -1,0 +1,15 @@
+{
+  "title": "Variável",
+  "description": "O elemento <var> identifica uma variável em expressão matemática ou código.",
+  "tags": [
+    "var",
+    "variável",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <var> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<var>Exemplo de conteúdo.</var>"
+}

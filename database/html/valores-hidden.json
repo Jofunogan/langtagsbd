@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo hidden",
+  "description": "Valores e formatos permitidos para o atributo HTML hidden.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "hidden",
+      "kind": "enumeração",
+      "description": "Valor vazio ou hidden oculta; until-found permite revelar o conteúdo em buscas; sem o atributo, o conteúdo é exibido.",
+      "options": [
+        "hidden",
+        "until-found",
+        "ausente"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<section hidden>Conteúdo</section>"
+}

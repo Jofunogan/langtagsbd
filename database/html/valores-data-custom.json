@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo data-*",
+  "description": "Valores e formatos permitidos para o atributo HTML data-*.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "data-*",
+      "kind": "texto personalizado",
+      "description": "Use data- seguido de um nome próprio e atribua qualquer texto. O curinga * representa a parte variável do nome.",
+      "examples": [
+        "data-id=\"42\"",
+        "data-estado=\"ativo\""
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div data-id=\"42\">Conteúdo</div>"
+}

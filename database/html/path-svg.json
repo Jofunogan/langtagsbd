@@ -1,0 +1,8 @@
+{
+  "title": "Traçado vetorial",
+  "description": "A tag <path> desenha formas vetoriais em SVG usando comandos definidos no atributo d.",
+  "tags": ["path", "svg", "vetor", "icone"],
+  "attributes": ["d", "fill", "stroke", "stroke-width", "aria-hidden"],
+  "configurations": ["d contém os comandos do desenho", "Use fill none e stroke para ícones contornados"],
+  "code": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\">\n  <path d=\"M12 3 14 9h6l-5 4 2 7-5-4-5 4 2-7-5-4h6z\"></path>\n</svg>"
+}

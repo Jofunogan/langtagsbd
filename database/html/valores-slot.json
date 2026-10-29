@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo slot",
+  "description": "Valores e formatos permitidos para o atributo HTML slot.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "slot",
+      "kind": "texto ou tokens",
+      "description": "Recebe texto, identificador, token ou valor conforme o contexto do elemento.",
+      "examples": [
+        "exemplo",
+        "valor-personalizado"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div slot=\"valor\">Conteúdo</div>"
+}

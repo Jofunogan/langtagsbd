@@ -1,0 +1,20 @@
+{
+  "title": "Conteúdo externo incorporado",
+  "description": "O elemento <embed> incorpora conteúdo externo fornecido por um recurso.",
+  "tags": [
+    "embed",
+    "conteúdo externo incorporado",
+    "elemento html"
+  ],
+  "attributes": [
+    "src",
+    "type",
+    "width",
+    "height"
+  ],
+  "configurations": [
+    "Use <embed> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<embed>"
+}

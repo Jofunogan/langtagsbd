@@ -1,0 +1,8 @@
+{
+  "title": "Título de nível 2",
+  "description": "A tag <h2> define um título de segundo nível dentro da hierarquia da página.",
+  "tags": ["h2", "titulo", "cabecalho", "hierarquia"],
+  "attributes": ["id", "class", "aria-level"],
+  "configurations": ["Use depois de um título de nível 1", "Mantenha a hierarquia dos títulos"],
+  "code": "<h2>Favoritos</h2>"
+}

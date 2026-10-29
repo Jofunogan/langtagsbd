@@ -1,0 +1,15 @@
+{
+  "title": "Separação temática",
+  "description": "O elemento <hr> indica uma mudança temática entre partes do conteúdo.",
+  "tags": [
+    "hr",
+    "separação temática",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <hr> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<hr>"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo itemprop",
+  "description": "Valores e formatos permitidos para o atributo HTML itemprop.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "itemprop",
+      "kind": "tokens de microdados",
+      "description": "Lista nomes de propriedades ou URLs absolutas conforme o vocabulário de microdados.",
+      "examples": [
+        "name",
+        "https://schema.org/Person"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div itemprop=\"valor\">Conteúdo</div>"
+}

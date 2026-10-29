@@ -1,0 +1,17 @@
+{
+  "title": "Título de nível 1",
+  "description": "O elemento <h1> define o título de nível mais alto do conteúdo.",
+  "tags": [
+    "h1",
+    "título de nível 1",
+    "elemento html"
+  ],
+  "attributes": [
+    "aria-level"
+  ],
+  "configurations": [
+    "Use <h1> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<h1>Exemplo de conteúdo.</h1>"
+}

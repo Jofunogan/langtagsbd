@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo cols",
+  "description": "Valores e formatos permitidos para o atributo HTML cols.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "cols",
+      "kind": "número",
+      "description": "Número inteiro válido conforme o elemento.",
+      "examples": [
+        "1",
+        "10",
+        "100"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div cols=\"valor\">Conteúdo</div>"
+}

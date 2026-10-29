@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo lang",
+  "description": "Valores e formatos permitidos para o atributo HTML lang.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "lang",
+      "kind": "código de idioma",
+      "description": "Use uma etiqueta de idioma BCP 47, como idioma ou idioma-região.",
+      "examples": [
+        "pt",
+        "pt-BR",
+        "en"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div lang=\"valor\">Conteúdo</div>"
+}

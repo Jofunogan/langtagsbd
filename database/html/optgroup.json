@@ -1,0 +1,18 @@
+{
+  "title": "Grupo de opções",
+  "description": "O elemento <optgroup> agrupa opções relacionadas dentro de um seletor.",
+  "tags": [
+    "optgroup",
+    "grupo de opções",
+    "elemento html"
+  ],
+  "attributes": [
+    "disabled",
+    "label"
+  ],
+  "configurations": [
+    "Use <optgroup> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<optgroup>Exemplo de conteúdo.</optgroup>"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo open",
+  "description": "Valores e formatos permitidos para o atributo HTML open.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "open",
+      "kind": "booleano",
+      "description": "A presença do atributo significa verdadeiro; sua ausência significa falso. Não se escreve true ou false como valor HTML.",
+      "options": [
+        "presente = verdadeiro",
+        "ausente = falso"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div open=\"valor\">Conteúdo</div>"
+}

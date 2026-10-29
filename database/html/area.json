@@ -1,0 +1,25 @@
+{
+  "title": "Área de mapa de imagem",
+  "description": "O elemento <area> define uma região clicável dentro de um mapa de imagem.",
+  "tags": [
+    "area",
+    "área de mapa de imagem",
+    "elemento html"
+  ],
+  "attributes": [
+    "alt",
+    "coords",
+    "shape",
+    "href",
+    "target",
+    "download",
+    "ping",
+    "rel",
+    "referrerpolicy"
+  ],
+  "configurations": [
+    "Use <area> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<map name=\"mapa\"><area shape=\"rect\" coords=\"0,0,100,50\" href=\"/destino\" alt=\"Abrir destino\"></map>"
+}

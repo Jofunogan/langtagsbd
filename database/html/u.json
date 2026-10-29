@@ -1,0 +1,15 @@
+{
+  "title": "Anotação textual não verbal",
+  "description": "O elemento <u> marca uma anotação textual não verbal, como nome próprio em outro idioma.",
+  "tags": [
+    "u",
+    "anotação textual não verbal",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <u> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<u>Exemplo de conteúdo.</u>"
+}

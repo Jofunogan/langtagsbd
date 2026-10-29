@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo nomodule",
+  "description": "Valores permitidos para nomodule conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "nomodule",
+      "kind": "booleano",
+      "description": "A presença significa verdadeiro; a ausência significa falso. Não recebe os textos true ou false.",
+      "options": [
+        "presente = verdadeiro",
+        "ausente = falso"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div nomodule=\"valor\">Conteúdo</div>"
+}

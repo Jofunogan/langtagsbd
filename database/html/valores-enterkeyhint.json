@@ -1,0 +1,24 @@
+{
+  "title": "Valores do atributo enterkeyhint",
+  "description": "Valores e formatos permitidos para o atributo HTML enterkeyhint.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "enterkeyhint",
+      "kind": "enumeração",
+      "description": "Sugere a ação exibida na tecla Enter do teclado virtual.",
+      "options": [
+        "enter",
+        "done",
+        "go",
+        "next",
+        "previous",
+        "search",
+        "send"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div enterkeyhint=\"valor\">Conteúdo</div>"
+}

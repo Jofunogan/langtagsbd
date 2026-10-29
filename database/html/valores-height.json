@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo height",
+  "description": "Valores e formatos permitidos para o atributo HTML height.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "height",
+      "kind": "número",
+      "description": "Número inteiro válido conforme o elemento.",
+      "examples": [
+        "1",
+        "10",
+        "100"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div height=\"valor\">Conteúdo</div>"
+}

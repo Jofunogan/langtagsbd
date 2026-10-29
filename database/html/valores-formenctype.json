@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo formenctype",
+  "description": "Valores permitidos para formenctype conforme o contexto HTML.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "formenctype",
+      "kind": "enumeração",
+      "description": "Codificação substituta ao enviar pelo botão.",
+      "options": [
+        "application/x-www-form-urlencoded",
+        "multipart/form-data",
+        "text/plain"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div formenctype=\"valor\">Conteúdo</div>"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "Centralizar com Flexbox",
+  "description": "Combine display flex e as propriedades de alinhamento para posicionar elementos.",
+  "tags": ["flexbox", "centralizar", "layout", "alinhamento"],
+  "code": ".container {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}"
+}

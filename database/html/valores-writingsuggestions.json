@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo writingsuggestions",
+  "description": "Valores e formatos permitidos para o atributo HTML writingsuggestions.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "writingsuggestions",
+      "kind": "enumeração",
+      "description": "Permite ou desativa sugestões de escrita; valor vazio equivale a herdar.",
+      "options": [
+        "true",
+        "false"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div writingsuggestions=\"valor\">Conteúdo</div>"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Lista de descrições",
+  "description": "O elemento <dl> agrupa pares de termos e respectivas descrições.",
+  "tags": [
+    "dl",
+    "lista de descrições",
+    "elemento html"
+  ],
+  "attributes": [],
+  "configurations": [
+    "Use <dl> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<dl>Exemplo de conteúdo.</dl>"
+}

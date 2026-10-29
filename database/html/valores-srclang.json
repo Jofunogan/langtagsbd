@@ -1,0 +1,20 @@
+{
+  "title": "Valores do atributo srclang",
+  "description": "Valores e formatos permitidos para o atributo HTML srclang.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "srclang",
+      "kind": "código de idioma",
+      "description": "Use uma etiqueta de idioma BCP 47, como idioma ou idioma-região.",
+      "examples": [
+        "pt",
+        "pt-BR",
+        "en"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div srclang=\"valor\">Conteúdo</div>"
+}

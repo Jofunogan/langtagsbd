@@ -1,0 +1,19 @@
+{
+  "title": "Valores do atributo translate",
+  "description": "Valores e formatos permitidos para o atributo HTML translate.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "translate",
+      "kind": "enumeração",
+      "description": "Indica se o conteúdo deve ser traduzido; valor vazio herda a configuração.",
+      "options": [
+        "yes",
+        "no"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<div translate=\"valor\">Conteúdo</div>"
+}

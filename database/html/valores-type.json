@@ -1,0 +1,89 @@
+{
+  "title": "Valores do atributo type",
+  "description": "Valores e formatos permitidos para o atributo HTML type.",
+  "tags": [],
+  "attributes": [],
+  "valueGroups": [
+    {
+      "attribute": "type",
+      "context": "input",
+      "kind": "enumeração",
+      "description": "Tipos de campo reconhecidos pelo HTML.",
+      "options": [
+        "hidden",
+        "text",
+        "search",
+        "tel",
+        "url",
+        "email",
+        "password",
+        "date",
+        "month",
+        "week",
+        "time",
+        "datetime-local",
+        "number",
+        "range",
+        "color",
+        "checkbox",
+        "radio",
+        "file",
+        "submit",
+        "image",
+        "reset",
+        "button"
+      ]
+    },
+    {
+      "attribute": "type",
+      "context": "button",
+      "kind": "enumeração",
+      "description": "Comportamentos válidos para button.",
+      "options": [
+        "submit",
+        "reset",
+        "button"
+      ]
+    },
+    {
+      "attribute": "type",
+      "context": "ol",
+      "kind": "enumeração",
+      "description": "Estilos de marcador para lista ordenada.",
+      "options": [
+        "1",
+        "a",
+        "A",
+        "i",
+        "I"
+      ]
+    },
+    {
+      "attribute": "type",
+      "context": "script",
+      "kind": "enumeração e MIME",
+      "description": "Tipos especiais de script; blocos de dados também aceitam MIME types não JavaScript.",
+      "options": [
+        "module",
+        "importmap",
+        "speculationrules"
+      ],
+      "examples": [
+        "application/json"
+      ]
+    },
+    {
+      "attribute": "type",
+      "context": "a, link, embed, object e source",
+      "kind": "MIME type",
+      "description": "Dica do tipo de recurso referenciado ou incorporado.",
+      "examples": [
+        "text/html",
+        "image/svg+xml",
+        "application/pdf"
+      ]
+    }
+  ],
+  "configurations": [],
+  "code": "<input type=\"email\" autocomplete=\"email\">"
+}

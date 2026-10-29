@@ -1,0 +1,19 @@
+{
+  "title": "Resultado de cálculo",
+  "description": "O elemento <output> apresenta o resultado de uma ação ou cálculo.",
+  "tags": [
+    "output",
+    "resultado de cálculo",
+    "elemento html"
+  ],
+  "attributes": [
+    "for",
+    "form",
+    "name"
+  ],
+  "configurations": [
+    "Use <output> conforme seu significado semântico.",
+    "Atributos globais também podem ser aplicados."
+  ],
+  "code": "<output name=\"resultado\">42</output>"
+}

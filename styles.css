@@ -582,7 +582,7 @@ h2 { font-size: 18px; }
     border-radius: 11px;
     font-size: 24px;
   }
-  .suggestions-label { font-size: 16px; }
+  .suggestions-label { font-size: 21px; }
 
   .favorites-section .card-top {
     margin: -32px -32px 12px;
@@ -731,7 +731,29 @@ h2 { font-size: 18px; }
 }
 
 @media (min-width: 1200px) {
+  .results-section .results-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-count: initial;
+    column-gap: 10px;
+    row-gap: 10px;
+    align-items: start;
+  }
+
+  .results-section .result-card {
+    display: block;
+    width: auto;
+    margin: 0;
+  }
+}
+
+@media (min-width: 1200px) {
   #scope-label { font-size: 20px; }
+  .favorites-section h2 { font-size: 27px; }
+  .favorites-section > .results-heading {
+    align-items: center;
+    padding: 14px 16px;
+  }
 
   .search-filters .scope-trigger {
     height: 49px;

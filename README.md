@@ -1,29 +1,56 @@
 # Lang Tags BD
 
-Aplicação web local para consultar exemplos de HTML, CSS, JavaScript e outras linguagens.
+Banco de consulta de elementos e recursos de programação, organizado por linguagem e pesquisável por significado e palavras-chave.
 
-## Executar
+**Acesse:** https://jofunogan.github.io/langtagsbd/
 
-Como o navegador não permite que JavaScript leia pastas locais diretamente, sirva esta pasta por um servidor HTTP local. Por exemplo, com Python instalado, execute na raiz do projeto:
+## Organização
 
-```sh
-python3 -m http.server 8000
-```
+O conteúdo é organizado por linguagens dentro da pasta `database/`.
 
-Depois acesse `http://localhost:8000` no navegador.
+O arquivo `manifest.json` lista os arquivos disponíveis em cada linguagem. Cada arquivo JSON representa uma ficha individual de consulta.
 
-## Publicar no GitHub Pages
+### Estrutura das fichas
 
-O projeto é estático e pode ser publicado diretamente pelo GitHub Actions. Depois de enviar este repositório ao GitHub, abra **Settings → Pages** e selecione **GitHub Actions** como origem. A cada envio para `main`, o site será atualizado. O endereço será `https://<usuario>.github.io/<repositorio>/`.
+Cada ficha pode conter:
 
-O conteúdo em `database/` também fica público junto com o site.
-
-## Instalar como aplicativo (PWA)
-
-Depois que o site estiver publicado no GitHub Pages, abra o endereço HTTPS no Brave. Use o ícone de instalação na barra de endereço ou o menu **⋮ → Salvar e compartilhar → Instalar página como aplicativo**.
-
-O aplicativo inclui manifesto, ícones e cache offline. A instalação não funciona abrindo `index.html` diretamente com `file://`; é necessário acessar por HTTPS ou por `http://localhost`.
+- `title`: nome da ficha.
+- `description`: descrição do elemento.
+- `tags`: palavras-chave para pesquisa.
+- `attributes`: atributos relacionados.
+- `configurations`: orientações de utilização.
+- `code`: exemplo de código.
 
 ## Adicionar conteúdo
 
-Crie um arquivo JSON dentro da pasta da linguagem e registre o nome do arquivo em `database/manifest.json`. Cada item pode ter `title`, `description`, `tags` e `code`. A pesquisa procura primeiro no título/nome do arquivo e, sem correspondência, nas etiquetas e descrição.
+Para adicionar uma nova ficha:
+
+1. Crie um arquivo JSON na pasta correspondente à linguagem.
+2. Preencha os campos seguindo o padrão das fichas existentes.
+3. Adicione o nome do arquivo ao `manifest.json`, na categoria correspondente.
+
+## Criar sua própria versão
+
+O Lang Tags BD é um projeto de código aberto, disponibilizado sob a licença MIT.
+
+Você pode fazer um fork ou copiar o repositório para sua própria conta do GitHub e personalizar sua versão livremente.
+
+É possível:
+
+- Adicionar novas tags e linguagens.
+- Modificar ou remover fichas existentes.
+- Alterar a organização do banco de dados.
+- Modificar a interface e as funcionalidades.
+
+As alterações feitas em sua cópia não afetam o projeto original, que permanece sob controle de seu proprietário.
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- JSON
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para conhecer os termos de utilização.

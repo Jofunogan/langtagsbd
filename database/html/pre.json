@@ -1,8 +1,0 @@
-{
-  "title": "Bloco de texto pré-formatado",
-  "description": "A tag <pre> preserva espaços e quebras de linha, sendo útil para exibir blocos de código.",
-  "tags": ["pre", "codigo", "formatacao", "quebra de linha"],
-  "attributes": ["class", "id", "tabindex"],
-  "configurations": ["Preserva espaços e quebras de linha", "Combine com code para marcar código-fonte"],
-  "code": "<pre><code>const mensagem = 'Olá';\nconsole.log(mensagem);</code></pre>"
-}

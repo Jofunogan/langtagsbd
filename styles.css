@@ -666,9 +666,9 @@ h2 { font-size: 18px; }
 
   .copy-button,
   .favorites-section .copy-button {
-    min-height: 52px;
-    padding: 10px 16px;
-    font-size: 20px;
+    min-height: 59px;
+    padding: 13px 16px;
+    font-size: 23px;
   }
 }
 
@@ -685,9 +685,9 @@ h2 { font-size: 18px; }
 
   .copy-button,
   .favorites-section .copy-button {
-    min-height: 56px;
-    padding: 11px 18px;
-    font-size: 22px;
+    min-height: 63px;
+    padding: 14px 18px;
+    font-size: 25px;
   }
 }
 
@@ -727,5 +727,38 @@ h2 { font-size: 18px; }
     display: block;
     width: auto;
     margin: 0;
+  }
+}
+
+@media (min-width: 1200px) {
+  #scope-label { font-size: 20px; }
+
+  .search-filters .scope-trigger {
+    height: 49px;
+    font-size: 19px;
+  }
+
+  .search-filters .scope-options {
+    width: 320px;
+    padding: 12px 10px;
+    border-radius: 14px;
+  }
+
+  .search-filters .scope-option {
+    min-height: 48px;
+    padding: 14px 10px;
+    font-size: 18px;
+  }
+
+  #language-options {
+    width: 320px;
+    padding: 12px 10px;
+    border-radius: 14px;
+  }
+
+  #language-options .language-option {
+    min-height: 48px;
+    padding: 14px 10px;
+    font-size: 18px;
   }
 }

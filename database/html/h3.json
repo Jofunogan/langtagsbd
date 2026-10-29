@@ -1,8 +1,0 @@
-{
-  "title": "Título de nível 3",
-  "description": "A tag <h3> define um título de terceiro nível, subordinado a um título de nível superior.",
-  "tags": ["h3", "titulo", "subtitulo", "hierarquia"],
-  "attributes": ["id", "class", "aria-level"],
-  "configurations": ["Use depois de um título de nível 2", "Mantenha a hierarquia dos títulos"],
-  "code": "<h3>Resultado da pesquisa</h3>"
-}

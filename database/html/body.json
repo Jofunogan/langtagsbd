@@ -1,8 +1,0 @@
-{
-  "title": "Corpo do documento",
-  "description": "A tag <body> contém todo o conteúdo visível da página.",
-  "tags": ["body", "corpo", "pagina", "conteudo visivel"],
-  "attributes": ["class", "id", "onload"],
-  "configurations": ["Use lang no elemento html para definir o idioma", "Normalmente existe um body por documento"],
-  "code": "<body>\n  <main>Conteúdo da página</main>\n</body>"
-}

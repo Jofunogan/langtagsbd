@@ -1,8 +1,0 @@
-{
-  "title": "Folha de estilos",
-  "description": "A tag <link> conecta o documento a um recurso externo, como uma folha de estilos.",
-  "tags": ["link", "folha de estilo", "css", "recurso externo"],
-  "attributes": ["rel", "href", "media", "type"],
-  "configurations": ["Use rel stylesheet para carregar CSS", "href informa o caminho do recurso"],
-  "code": "<link rel=\"stylesheet\" href=\"styles.css\">"
-}

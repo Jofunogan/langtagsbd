@@ -1,8 +1,0 @@
-{
-  "title": "Botão",
-  "description": "A tag <button> cria um botão interativo para ações e controles.",
-  "tags": ["button", "botao", "acao", "interacao"],
-  "attributes": ["type", "disabled", "name", "value", "aria-label", "aria-pressed"],
-  "configurations": ["type button para ações", "type submit para enviar formulário", "disabled desativa o controle"],
-  "code": "<button type=\"button\">Pesquisar</button>"
-}

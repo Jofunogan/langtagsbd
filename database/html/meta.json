@@ -1,8 +1,0 @@
-{
-  "title": "Metadados da página",
-  "description": "A tag <meta> informa metadados do documento, como codificação, viewport e cor do navegador.",
-  "tags": ["meta", "metadados", "charset", "viewport"],
-  "attributes": ["charset", "name", "content", "http-equiv"],
-  "configurations": ["Use charset utf-8 para codificação", "Viewport com width device-width e initial-scale 1 adapta a página ao celular"],
-  "code": "<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
-}

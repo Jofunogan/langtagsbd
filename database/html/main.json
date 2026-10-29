@@ -1,8 +1,0 @@
-{
-  "title": "Conteúdo principal",
-  "description": "A tag <main> identifica o conteúdo principal e exclusivo da página.",
-  "tags": ["main", "principal", "conteudo", "semantica"],
-  "attributes": ["id", "class", "aria-label"],
-  "configurations": ["Use apenas um main visível por página", "Não use main dentro de article, aside, footer, header ou nav"],
-  "code": "<main>\n  <h1>Conteúdo principal</h1>\n</main>"
-}

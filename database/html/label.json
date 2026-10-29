@@ -1,8 +1,0 @@
-{
-  "title": "Rótulo de campo",
-  "description": "A tag <label> identifica um campo de formulário e pode associá-lo pelo atributo for.",
-  "tags": ["label", "rotulo", "formulario", "acessibilidade"],
-  "attributes": ["for", "form", "class"],
-  "configurations": ["O valor de for deve corresponder ao id do campo", "Associar o rótulo melhora a acessibilidade"],
-  "code": "<label for=\"query\">O que você procura?</label>\n<input id=\"query\">"
-}

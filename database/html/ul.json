@@ -1,8 +1,0 @@
-{
-  "title": "Lista não ordenada",
-  "description": "A tag <ul> cria uma lista não ordenada, normalmente composta por elementos <li>.",
-  "tags": ["ul", "lista", "nao ordenada", "menu"],
-  "attributes": ["class", "id", "role", "aria-label"],
-  "configurations": ["Use li para cada item", "Use ol quando a ordem dos itens for importante"],
-  "code": "<ul>\n  <li>HTML</li>\n  <li>CSS</li>\n</ul>"
-}

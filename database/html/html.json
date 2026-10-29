@@ -1,8 +1,0 @@
-{
-  "title": "Documento HTML",
-  "description": "A tag <html> é o elemento raiz que envolve todo o documento HTML.",
-  "tags": ["html", "raiz", "documento", "idioma"],
-  "attributes": ["lang", "dir", "class", "id"],
-  "configurations": ["Inclua doctype antes do elemento raiz", "Defina lang para informar o idioma"],
-  "code": "<!doctype html>\n<html lang=\"pt-BR\">\n  <head></head>\n  <body></body>\n</html>"
-}

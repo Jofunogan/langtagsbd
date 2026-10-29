@@ -1,8 +1,0 @@
-{
-  "title": "Campo de texto multilinha",
-  "description": "A tag <textarea> cria um campo de texto com várias linhas; nesta aplicação, é usada como alternativa para copiar código.",
-  "tags": ["textarea", "texto", "multilinha", "copiar"],
-  "attributes": ["rows", "cols", "name", "placeholder", "readonly", "required", "aria-label"],
-  "configurations": ["rows e cols definem dimensões iniciais", "readonly impede edição", "Use label ou aria-label para acessibilidade"],
-  "code": "<textarea rows=\"4\" aria-label=\"Código para copiar\"></textarea>"
-}

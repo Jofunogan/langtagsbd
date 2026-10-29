@@ -642,7 +642,7 @@ h2 { font-size: 18px; }
   .results-grid,
   .favorites-section .results-grid {
     align-items: start;
-    row-gap: 5px;
+    row-gap: 10px;
   }
 
   .result-card,
@@ -698,17 +698,34 @@ h2 { font-size: 18px; }
   .favorites-section .results-grid {
     display: block;
     column-count: 3;
-    column-gap: 24px;
+    column-gap: 10px;
   }
 
   .result-card,
   .favorites-section .result-card {
     display: inline-block;
     width: 100%;
-    margin: 0 0 5px;
+    margin: 0 0 10px;
     vertical-align: top;
     break-inside: avoid;
   }
 
   .empty-state { column-span: all; }
+}
+
+@media (min-width: 1200px) {
+  .favorites-section .results-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-count: initial;
+    column-gap: 10px;
+    row-gap: 10px;
+    align-items: start;
+  }
+
+  .favorites-section .result-card {
+    display: block;
+    width: auto;
+    margin: 0;
+  }
 }

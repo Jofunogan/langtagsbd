@@ -426,7 +426,7 @@ h2 { font-size: 18px; }
   .tag-suggestions { margin-top: 30px; }
   .suggestions-label { margin-bottom: 12px; font-size: 13px; }
   .tag-suggestion-list { gap: 9px; }
-  .tag-suggestion { padding: 8px 12px; border-radius: 9px; font-size: 14px; }
+  .tag-suggestion { padding: 13px 17px; border-radius: 10px; font-size: 19px; }
 
   .results-section { margin-top: 68px; }
   .favorites-section { margin-top: 30px; }
@@ -470,8 +470,8 @@ h2 { font-size: 18px; }
   .search-filters .scope-options { width: 240px; }
 
   .favorites-section .results-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
-  .favorites-section .result-card { padding: 14px; border-radius: 13px; }
-  .favorites-section .card-top { gap: 7px; margin: -14px -14px 8px; padding: 8px 14px; }
+  .favorites-section .result-card { padding: 19px; border-radius: 15px; }
+  .favorites-section .card-top { gap: 7px; margin: -19px -19px 8px; padding: 13px 19px; }
   .favorites-section .language-badge { padding: 4px 7px; font-size: 9px; }
   .favorites-section .file-name { font-size: 10px; }
   .favorites-section .favorite-button { flex-basis: 28px; width: 28px; height: 28px; }

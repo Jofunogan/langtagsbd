@@ -409,9 +409,9 @@ h2 { font-size: 18px; }
   .search-field { border-radius: 15px; }
   .search-field input {
     padding-left: 58px;
-    font-size: 18px;
+    font-size: 22px;
   }
-  #query::placeholder { font-size: 18px; }
+  #query::placeholder { font-size: 22px; }
   .search-icon { left: 19px; font-size: 32px; }
   .language-picker { flex-basis: 108px; }
   .language-trigger {

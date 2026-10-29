@@ -18,6 +18,12 @@ O projeto é estático e pode ser publicado diretamente pelo GitHub Actions. Dep
 
 O conteúdo em `database/` também fica público junto com o site.
 
+## Instalar como aplicativo (PWA)
+
+Depois que o site estiver publicado no GitHub Pages, abra o endereço HTTPS no Brave. Use o ícone de instalação na barra de endereço ou o menu **⋮ → Salvar e compartilhar → Instalar página como aplicativo**.
+
+O aplicativo inclui manifesto, ícones e cache offline. A instalação não funciona abrindo `index.html` diretamente com `file://`; é necessário acessar por HTTPS ou por `http://localhost`.
+
 ## Adicionar conteúdo
 
 Crie um arquivo JSON dentro da pasta da linguagem e registre o nome do arquivo em `database/manifest.json`. Cada item pode ter `title`, `description`, `tags` e `code`. A pesquisa procura primeiro no título/nome do arquivo e, sem correspondência, nas etiquetas e descrição.

@@ -25,6 +25,14 @@ let selectedLanguage = 'all';
 let selectedScope = 'tags';
 const favoriteStorageKey = 'lang-tags-bd:favorites';
 
+if ('serviceWorker' in navigator && window.isSecureContext) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js', { scope: './' }).catch((error) => {
+      console.warn('Não foi possível ativar o modo offline do PWA.', error);
+    });
+  });
+}
+
 function loadFavorites() {
   try {
     const stored = JSON.parse(localStorage.getItem(favoriteStorageKey) ?? '[]');

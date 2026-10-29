@@ -642,6 +642,7 @@ h2 { font-size: 18px; }
   .results-grid,
   .favorites-section .results-grid {
     align-items: start;
+    row-gap: 5px;
   }
 
   .result-card,
@@ -688,4 +689,26 @@ h2 { font-size: 18px; }
     padding: 11px 18px;
     font-size: 22px;
   }
+}
+
+/* Layout em colunas para evitar que um card alto crie espaços vazios ao lado
+   de cards menores na linha seguinte. */
+@media (min-width: 1200px) {
+  .results-grid,
+  .favorites-section .results-grid {
+    display: block;
+    column-count: 3;
+    column-gap: 24px;
+  }
+
+  .result-card,
+  .favorites-section .result-card {
+    display: inline-block;
+    width: 100%;
+    margin: 0 0 5px;
+    vertical-align: top;
+    break-inside: avoid;
+  }
+
+  .empty-state { column-span: all; }
 }

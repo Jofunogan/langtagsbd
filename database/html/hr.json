@@ -1,15 +1,15 @@
 {
   "title": "Separação temática",
-  "description": "O elemento <hr> indica uma mudança temática entre partes do conteúdo.",
+  "description": "a tag <hr> indica uma mudança temática entre partes do conteúdo. Uma linha horizontal na pagína.",
   "tags": [
     "hr",
     "separação temática",
-    "elemento html"
+    "elemento html", "separação de conteúdo", "linha horizontal"
   ],
   "attributes": [],
   "configurations": [
     "Use <hr> conforme seu significado semântico.",
     "Atributos globais também podem ser aplicados."
   ],
-  "code": "<hr>"
+  "code": "<h1>titulo</h1> <p>paragrafo</p> <hr>"
 }

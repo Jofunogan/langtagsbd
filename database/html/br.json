@@ -11,5 +11,5 @@
     "Use <br> conforme seu significado semântico.",
     "Atributos globais também podem ser aplicados."
   ],
-  "code": "<br>"
+  "code": "<p>Esse paragrafo pode continuar em outra linha<br>\nAqui por exemplo.</p>"
 }

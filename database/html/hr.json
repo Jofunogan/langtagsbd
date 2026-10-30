@@ -11,5 +11,5 @@
     "Use <hr> conforme seu significado semântico.",
     "Atributos globais também podem ser aplicados."
   ],
-  "code": "<h1>titulo</h1> <p>paragrafo</p> <hr>"
+  "code": "<h1>Um titulo</h1> <p>paragrafo de conteúdo</p> <hr>"
 }

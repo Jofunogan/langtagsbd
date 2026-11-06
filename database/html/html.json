@@ -1,0 +1,14 @@
+{
+  "title": "Documento HTML",
+  "description": "A tag <html> define que esse é um documento html",
+  "tags": [
+    "html",
+    "documento",
+    "pagina"
+  ],
+  "attributes": [],
+  "configurations": [
+    ""
+  ],
+  "code": "<html>"
+}

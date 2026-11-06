@@ -1,0 +1,14 @@
+{
+  "title": "DOCTYPE",
+  "description": "A tag <!DOCTYPE html> Informa ao navegador que o documento html usa a versão mais recente do html",
+  "tags": [
+    "html",
+    "doctype",
+    "meta"
+  ],
+  "attributes": [],
+  "configurations": [
+    ""
+  ],
+  "code": "<!DOCTYPE html>"
+}

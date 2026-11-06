@@ -4,7 +4,11 @@
       "br.json",
       "hr.json",
       "p.json",
-      "img.json"
+      "img.json",
+      "html.json",
+      "head.json",
+      "body.json",
+      "doctype.json"
     ],
     "css": [],
     "javascript": []

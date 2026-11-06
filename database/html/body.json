@@ -1,0 +1,14 @@
+{
+  "title": "Corpo do Conteúdo",
+  "description": "A tag <body> define o conteudo visivel de uma pagina web",
+  "tags": [
+    "body",
+    "conteúdo",
+    "corpo do site"
+  ],
+  "attributes": [],
+  "configurations": [
+    ""
+  ],
+  "code": "<body>"
+}

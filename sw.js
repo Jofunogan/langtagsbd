@@ -11,7 +11,11 @@ const APP_SHELL = [
   './database/html/br.json',
   './database/html/hr.json',
   './database/html/p.json',
-  './database/html/img.json'
+  './database/html/img.json',
+  './database/html/html.json',
+  './database/html/head.json',
+  './database/html/body.json',
+  './database/html/doctype.json'
 ];
 
 self.addEventListener('install', (event) => {

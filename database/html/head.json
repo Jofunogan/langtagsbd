@@ -1,0 +1,16 @@
+{
+  "title": "Cabeçalho do documento html",
+  "description": "A tag <head> define onde ficam as configuracões do documento html",
+  "tags": [
+    "html",
+    "head",
+    "cabeçalho",
+    "configuracões",
+    "metadados"
+  ],
+  "attributes": [],
+  "configurations": [
+    ""
+  ],
+  "code": "<head>"
+}

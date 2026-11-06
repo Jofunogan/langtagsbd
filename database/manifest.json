@@ -3,7 +3,8 @@
     "html": [
       "br.json",
       "hr.json",
-      "p.json"
+      "p.json",
+      "img.json"
     ],
     "css": [],
     "javascript": []

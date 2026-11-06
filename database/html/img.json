@@ -1,14 +1,14 @@
 {
   "title": "Imagens",
-  "description": "A tag <img> insere uma imagem na pagina web",
+  "description": "A tag <img> insere uma imagem no documento html",
   "tags": [
     "img",
     "imagem",
-    "elemento html"
+    "picture"
   ],
   "attributes": [],
   "configurations": [
     ""
   ],
-  "code": "<img src=\"imagem/logo.png\">"
+  "code": "<img src=\"imagem/logo.png\"/ alt=\"/logo do site\"/>"
 }

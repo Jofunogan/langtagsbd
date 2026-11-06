@@ -10,7 +10,7 @@ const APP_SHELL = [
   './database/manifest.json',
   './database/html/br.json',
   './database/html/hr.json',
-  './database/html/paragrafo.json',
+  './database/html/p.json',
   './database/html/img.json'
 ];
 
